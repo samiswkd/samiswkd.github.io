@@ -48,9 +48,9 @@ meta_common_description: "귀하의 메타 설명."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/samiswkd"
+  - github: "/samiswkd"
   - email: "shlee20@yonsei.ac.kr"
-  - linkedin: "https://www.linkedin.com/in/seung-hoon-lee-51398a2aa/"
+  - linkedin: "/seung-hoon-lee-51398a2aa"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
