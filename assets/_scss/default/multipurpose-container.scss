@@ -9,7 +9,7 @@
 }
 
 .main-container {
-  min-height: calc(100vh - (var(--top-nav-height) + var(--footer-height)));
+  min-height: calc(150vh - (var(--top-nav-height) + var(--footer-height)));
   max-width: var(--main-container-max-width);
   padding-left: var(--main-container-margin);
   padding-right: var(--main-container-margin);
@@ -28,13 +28,13 @@
 
 /* for bottom spacing */
 .multipurpose-container:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 20px;
 }
 
 .multipurpose-container h1:first-child,
 .multipurpose-container h2:first-child,
 .multipurpose-container h3:first-child {
-  margin-top: 0px;
+  margin-top: 20px;
 }
 
 .multipurpose-container > p {
