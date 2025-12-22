@@ -39,6 +39,12 @@
 
 @import "default/multipurpose-container";
 
+.multipurpose-container {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+
 @import "default/footer";
 {% if site.data.conf.main.main_fixed_footer and site.data.conf.main.main_footer %}
   @import "default/footer-fixed-ext";
