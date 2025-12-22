@@ -22,7 +22,7 @@
   --main-container-width-limit: 900px;
   --main-container-max-width: calc(var(--main-container-width-limit) + (var(--main-container-margin) * 2));
   /* space between containers */
-  --multipurpose-container-margin-bottom: 20px;
+  --multipurpose-container-margin-bottom: 60px;
   --footer-height: 27px;
 }
 
@@ -37,12 +37,7 @@
 
 @import "default/body-main-styles";
 
-
-.multipurpose-container {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-
+@import "default/multipurpose-container";
 
 @import "default/footer";
 {% if site.data.conf.main.main_fixed_footer and site.data.conf.main.main_footer %}
