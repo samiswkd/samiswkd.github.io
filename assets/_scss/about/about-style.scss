@@ -78,11 +78,11 @@
 
 /* remove first and last spacing */
 .about-container .about-msg :first-child {
-  margin-top: 20;
+  margin-top: 0;
 }
 
 .about-container .about-msg :last-child {
-  margin-bottom: 20;
+  margin-bottom: 0;
 }
 
 /* about text */
@@ -101,13 +101,4 @@
     margin-left: unset;
     margin-right: unset;
   }
-}
-
-.about-container .about-msg ul ul {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.about-container .about-msg li > p {
-  margin-bottom: 0;
 }
