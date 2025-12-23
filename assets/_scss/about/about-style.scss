@@ -5,7 +5,7 @@
 
 .about-container {
   @include get_scheme(about-style-colors-);
-  margin-top: 5%;
+  margin-top: 20%;
   margin-left: 5%;
   margin-right: 5%;
   padding: 50;
@@ -34,7 +34,7 @@
 
 .about-container .about-header {
   position: absolute;
-  top: 20%;
+  top: 5%;
   transform: translateY(-50%);
 
   margin-left: 160px;
