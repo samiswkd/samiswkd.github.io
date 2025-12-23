@@ -34,7 +34,7 @@
 
 .about-container .about-header {
   position: absolute;
-  top: 50%;
+  top: 35%;                  /* 이름부터 위까지 공간 */
   transform: translateY(-50%);
 
   margin-left: 160px;
@@ -65,7 +65,7 @@
 
 .about-container .about-divider hr {
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   margin-left: 175px;
   margin-right: 35px;
   padding: 50px;
@@ -78,7 +78,7 @@
 
 /* remove first and last spacing */
 .about-container .about-msg :first-child {
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .about-container .about-msg :last-child {
