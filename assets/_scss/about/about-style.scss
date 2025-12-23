@@ -33,9 +33,9 @@
 }
 
 .about-container .about-header {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  position: relative;   /* or just remove position/top/transform lines */
+  top: auto;
+  transform: none;
 
   margin-left: 160px;
   margin-right: -20px;
