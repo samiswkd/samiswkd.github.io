@@ -38,7 +38,33 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+## Employment
 
-{{ website_info_text_second }}
+- Undergraduate @ Yonsei University
+- Aspiring for BOK(2027!)
+
+## Education
+
+- Singapore International School, Ho Chi Minh, Vietnam (Aug 2008 - Jul 2009)
+- British International School, Ho Chi Minh, Vietnam (Aug 2009 - Dec 2011)
+- Sehwa High School, Seoul, Republic of Korea (Mar 2016 - Fen 2019)
+- Yonsei University, Seoul, Republic of Korea (Mar 2020 - Present)
+    - Major at Business
+    - Major at Economics (Double major)
+    - Minor at Applied Statistics
+- University of California, Berkeley, California, United States (Jan 2024 - May 2024)
+    - Exchange Abroad Program
+    - Majored for Economics
+
+## Academic Interests
+
+- Economics: Monetary economics, Information economics
+- Business: Valuation theory, Executive Compensation 
+
+## Programming Languages
+
+- Python, R, Gretl, and html
+
+## Contact
+
+- shlee20@yonsei.ac.kr
