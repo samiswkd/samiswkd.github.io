@@ -41,7 +41,7 @@ img: ":about.jpg"
 ## Employment
 
 - Undergraduate @ Yonsei University
-- Aspiring for BOK(2027!)
+- Aspiring for BOK (2027 Plz)
 
 ## Education
 
@@ -58,8 +58,8 @@ img: ":about.jpg"
 
 ## Academic Interests
 
-- Economics: Monetary economics, Information economics
-- Business: Valuation theory, Executive Compensation 
+- **Economics**: Monetary economics, Information economics
+- **Business**: Valuation theory, Executive Compensation 
 
 ## Programming Languages
 
