@@ -33,9 +33,9 @@
 }
 
 .about-container .about-header {
-  position: absolute;
-  top: 35%;                  /* 이름부터 위까지 공간 */
-  transform: translateY(-50%);
+  position: relative;   /* or remove the position line completely */
+  top: auto;
+  transform: none;
 
   margin-left: 160px;
   margin-right: -20px;
