@@ -64,7 +64,7 @@
 /* .about-container .about-header>.meta-container>p.email>a */ /* email color */
 
 .about-container .about-divider hr {
-  margin-top: 0px;
+  margin-top: 10px;
   margin-bottom: 0px;
   margin-left: 175px;
   margin-right: 35px;
@@ -78,7 +78,7 @@
 
 /* remove first and last spacing */
 .about-container .about-msg :first-child {
-  margin-top: 20px;
+  margin-top: 20;
 }
 
 .about-container .about-msg :last-child {
@@ -105,5 +105,9 @@
 
 .about-container .about-msg ul ul {
   margin-top: 0;
+  margin-bottom: 0;
+}
+
+.about-container .about-msg li > p {
   margin-bottom: 0;
 }
