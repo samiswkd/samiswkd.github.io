@@ -34,7 +34,7 @@
 
 .about-container .about-header {
   position: absolute;
-  top: 15%;
+  top: 50%;
   transform: translateY(-50%);
 
   margin-left: 160px;
@@ -78,7 +78,7 @@
 
 /* remove first and last spacing */
 .about-container .about-msg :first-child {
-  margin-top: 20;
+  margin-top: 20px;
 }
 
 .about-container .about-msg :last-child {
