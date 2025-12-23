@@ -15,12 +15,12 @@ home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
   top_header_line1: "$site_welcome"
   # if commented, top header will be a single line
-  top_header_line2: "Personal blog of Seunghoon/Sam Lee"
+  top_header_line2: "This is Seunghoon/Sam Lee's Blog"
 
 # about page sub title
 about:
   sub_title: "Mostly publishing my Lit reviews on academic papers for fun. 
-  Trying my best to write things in English, but it'll be easier to understand Ko ver."
+  Trying my best to write things in English, but it'll be easier to understand the Korean ver."
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.

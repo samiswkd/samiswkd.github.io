@@ -39,7 +39,6 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+### 내용 넣어지나???
 
-{{ website_info_text_second }}
+- 혜림 ♡ 양파
