@@ -39,6 +39,6 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-### 내용 넣어지나???
+### Hi Guys !!
 
-- 혜림 ♡ 양파
+This is my personal blog. I'll be posting everything about me ranging from my personal life to academic works. Hope you enjoy!
