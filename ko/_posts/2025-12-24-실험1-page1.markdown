@@ -43,19 +43,20 @@ date: 2025-12-24 20:16:53 +0900
 
 <!-- outline-start -->
 
-혜림 ♡ 하와이안 피자  
+혜림 ♡ 하와이안 피자<br>
 앞으로 실험은 다 여기서 해야지 !!
 
-<!-- outline-end -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xp3RLneoaKs?si=hOz4u3icUq4uFBvn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 공군 군견 브이로그
 
-{% include embed.html url="https://www.youtube.com/embed/yh5eplK3QWw" %}  
-혜림넴 방법으로 몽자 넣어보기
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yh5eplK3QWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+몽자
 
 [![혜림넴이좋아하는것](https://i.postimg.cc/XJzN9rGc/hawaianpija-nomo-eo.png)](https://postimg.cc/LYjMp6Vn)
 
 [혜림넴이따라오기시작했다](https://hyerimgwon.github.io/)
 
 내 라이벌... 얼마나 꾸며놨는지 항상 확인해야지
+
+<!-- outline-end -->
