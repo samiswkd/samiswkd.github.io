@@ -47,7 +47,8 @@ date: 2025-12-24 20:16:53 +0900
 
 <!-- outline-end -->
 
-![혜림넴이좋아하는것](https://postimg.cc/64ByvPjX)
+
+[![혜림넴이좋아하는것](https://i.postimg.cc/vTV9pF5c/daepa.jpg)](https://postimg.cc/64ByvPjX)
 
 [혜림넴이따라오기시작했다]: (https://hyerimgwon.github.io/)
 
