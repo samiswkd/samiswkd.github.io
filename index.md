@@ -41,4 +41,4 @@ img: ":home-heading.jpg"
 
 ### Hi Guys !!
 
-This is my personal blog. I'll be posting everything about me ranging from my personal life to academic works. Hope you enjoy!
+This is my personal blog. I'll be posting everything about me from my personal life to academic works. Hope you enjoy!
