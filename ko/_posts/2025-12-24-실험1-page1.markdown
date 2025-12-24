@@ -47,6 +47,6 @@ date: 2025-12-24 20:16:53 +0900
 
 <!-- outline-end -->
 
-[혜림넴이따라오기시작했다]: https://https://hyerimgwon.github.io/
+[혜림넴이따라오기시작했다]: (https://https://hyerimgwon.github.io/)
 
 내 라이벌... 항상 얼마나 꾸며놨는지 확인해야지
