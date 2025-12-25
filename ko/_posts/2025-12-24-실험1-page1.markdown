@@ -43,7 +43,7 @@ date: 2025-12-24 20:16:53 +0900
 
 <!-- outline-start -->
 
-혜림 ♡ 하와이안 피자<br>
+**혜림 ♡ 하와이안 피자** <br>
 앞으로 실험은 다 여기서 해야지 !!
 
 
@@ -52,6 +52,9 @@ date: 2025-12-24 20:16:53 +0900
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yh5eplK3QWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 몽자
+
+{% include embed.html url="https://www.youtube.com/embed/zeJD6dqJ5lo&t=1188s" %}
+혜림넴 방법으로 해보기
 
 [![혜림넴이좋아하는것](https://i.postimg.cc/XJzN9rGc/hawaianpija-nomo-eo.png)](https://postimg.cc/LYjMp6Vn)
 
