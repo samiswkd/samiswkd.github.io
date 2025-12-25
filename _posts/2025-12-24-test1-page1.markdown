@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_test_1
+lng_pair: id_en_test_1
 title: "My first writing: I love daepa !"
 
 # post specific
