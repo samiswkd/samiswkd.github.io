@@ -5,7 +5,7 @@ title: "My first writing: I love daepa !"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-#author: ""
+author: "Sam Lee"
 # multiple category is not supported
 category: auto generated
 # multiple tag entries are possible
@@ -41,11 +41,7 @@ date: 2025-12-25 11:08:03 +0900
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-
 <!-- outline-start -->
-
-{{ website_info_text_first }}
 
 ## Some youtubes i should see
 
@@ -69,7 +65,5 @@ i took this photo by a random guy in front of washington monument, but the guy u
 [![This is it !!!](https://i.postimg.cc/8kWJPxH7/iphone16-teal.webp)](https://postimg.cc/z3zXxt4N)
 
 <!-- outline-end -->
-
-{{ website_info_text_second }}
 
 
