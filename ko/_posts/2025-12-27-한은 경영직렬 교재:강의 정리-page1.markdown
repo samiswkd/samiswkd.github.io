@@ -1,0 +1,101 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ko_2
+title: "한은 경영직렬 교재/강의 정리"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: "이승훈"
+# multiple category is not supported
+category: auto generated
+# multiple tag entries are possible
+tags: [jekyll, example post]
+# thumbnail image for post
+img: ":BOK.jpg"
+# disable comments on this page
+comments_disable: false
+
+# publish date
+date: 2025-12-27 00:08:53 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+<!-- outline-start -->
+
+##### 잼관
+잼관은 그냥 기본서 산 거 맞춰서 강의 사고, 다 돌린 뒤에 연습서 및 일특 & 강의 사서 보면 될 듯
+
+<br><br><br>
+
+#### 잼회
+**기본서, 연습서 모두 김한솔로**<br>
+연습서는 김한솔밖에 없고, 강의는 김재호가 20년도밖에 없어서 그냥 김한솔로 가자<br>
+
+기본 개념서
+[교재: 김재호&김한솔 IFRS 중회 상 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3137&OrderColumn=Book_Pub_Date&OrderSort=desc)
+[교재: 김재호&김한솔 IFRS 중회 하 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3138&OrderColumn=Book_Pub_Date&OrderSort=desc)
+[강의: 김한솔 IFRS 중회, 2501](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&Goods_Idx=47503)
+<br>
+
+연습서
+[교재: 김한솔 2026 공인회계사 2차 재무회계연습 중급회계편](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3318&OrderColumn=Book_Pub_Date&OrderSort=desc)
+[강의: 김한솔 재무회계연습, 2503](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=48628)
+
+<br>
+
+이외 서적들
+[교재: 김재호&김한솔 잼회 객관식 Final, 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3313&OrderColumn=Book_Pub_Date&OrderSort=desc)
+[교재: 김재호&김한솔 2026 1차 기출 베스트 문제](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3293&OrderColumn=Book_Pub_Date&OrderSort=desc)
+[강의: 김한솔 객관식 잼회(중회), 2509, 기베문 강의](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=50676&Book_Idx=3293&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
+[교재: 김재호&김한솔 기출 베스트 모의고사(기베모), 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3303&OrderColumn=Book_Pub_Date&OrderSort=desc)
+
+
+<br><br><br>
+
+
+#### 경영학
+**내용상으로 저걸 들어도 될지는 공기업 게시판, 스터디 등에서 물어보고 확정짓기**
+[강의&교재: 경영학 통합전공, 경영학 압축정리 강의](https://www.namucpa.com/lecture/lectureONdetail.asp?ridx=1026&gidx=1026&midx=1028&lcsSection_ccd=12103&lcsLicense_ccd=10617&lecSalesStatus_ccd=12201&lecIDX=29809)
+
+
+<br><br><br>
+
+
+#### 원가
+**23년도 건 하끝 강의가 없어서 26으로 가면 될 듯, 옛날거 구할 수는 있는데 굳이..?**
+
+[교재: 2026 하루에 끝장내기 원가관리회계_임세진, 2511](https://product.kyobobook.co.kr/detail/S000218352350)
+[교재: 2023 하루에 끝장내기 원가관리회계_임세진](https://www.yes24.com/Product/Goods/115203135)
+[강의: 원가관리회계 FINAL(하끝) 특강(25년 11월)](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=51276&Book_Idx=3340&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
+
+<br><br><br>
+
+### 정리
+
+1. 잼회는 굳이 20년도 옛날 김재호 강의로 할 필요 없이 김한솔로 하면 될 듯
+2. 문제는 26년 1월 종합반이 있어서 인강을 26년으로 들을지 일찍이 25년걸로 들을지가 고민.. 그냥 공부 시작할 떄 26 나와있으면 듣고 아님 25로 듣자
+3. 경영학, 원가도 그냥 최근걸로 하면 되는 분위기, 그래도 범위 이슈에 대해 혹시 모르니 스터디나 에타에 물어보고 확정짓자
+
+
+<!-- outline-end -->

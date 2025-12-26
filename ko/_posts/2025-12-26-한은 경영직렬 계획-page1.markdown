@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_ko_1
-title: "한은 경영직렬 대비 계획"
+title: "한은 경영직렬 계획"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
