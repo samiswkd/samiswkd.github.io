@@ -1,0 +1,86 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ko_3
+title: "한은 플랜b 정리"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: "이승훈"
+# multiple category is not supported
+category: auto generated
+# multiple tag entries are possible
+tags: [jekyll, example post]
+# thumbnail image for post
+img: ":plan b.jpg"
+# disable comments on this page
+comments_disable: false
+
+# publish date
+date: 2025-12-27 01:22:53 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+<!-- outline-start -->
+
+ALIO 통해 연봉 정보도 넣어놓기 <br>
+
+##### 배경
+**아무래도 한은 경영직렬은 채용인원이 워낙 적다보니,, 플랜b는 언제나 준비해둬야겠지**<br>
+한은 경영직렬 대비 내용이 cpa 관련 과목들이므로, 해당 내용을 최대한 레버리지할 수 있는 기업들을 정리해보자면<br>
+1. 한은 제외 a,b매치 금융공기업들: 한국수출입은행, 한국투자공사, 한국증권금융, 산업은행, 한국거래소, OO공제회, OO보험공단 등
+2. 대기업 재무회계팀: cpa 내용 레버리징, 1차합이 아니며 인턴 경험 없어 쉽지 않을 것으로 예상
+
+#### 한국수출입은행 K-EXIM
+**한은 제외 가장 가고 싶은 회사**<br>
+자소서 작성 시 라이프아카데미에서 진행했던 EDCF 등 업무 어필<br>
+- 상반기(3-4월)/하반기(8-9월)로 채용
+- [한국수출입은행 채용홈페이지](https://koreaexim.incruit.com/)
+- [한국수출입은행 홈페이지](https://www.koreaexim.go.kr/index)
+<br>
+
+
+#### 한국투자공사 KIC
+**한은 제외 가장 가고 싶은 회사2**<br>
+- 1년 1회 채용: 주로 5-6월에 채용공고 공개
+- [KIC 채용홈페이지](https://kicrecruit.fairyhr.com/)
+- [KIC 홈페이지](https://www.kic.kr/)
+<br>
+
+#### 한국증권금융
+
+
+
+#### 한국산업은행
+- 상반기/하반기(8-9월)로 채용
+
+
+<br><br><br>
+
+### 정리
+
+1. 한은 외에도 좋은 기업은 많고, 한은 떨어질 확률도 있으니 플랜비는 언제나 준비해두는게 좋다
+2. 그럼에도 한은에 떨어질 일은 없다 생각하고 공부하기
+
+
+<!-- outline-end -->
