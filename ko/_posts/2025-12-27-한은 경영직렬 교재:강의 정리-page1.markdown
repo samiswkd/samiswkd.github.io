@@ -53,22 +53,22 @@ date: 2025-12-27 00:08:53 +0900
 연습서는 김한솔밖에 없고, 강의는 김재호가 20년도밖에 없어서 그냥 김한솔로 가자<br>
 
 기본 개념서
-[교재: 김재호&김한솔 IFRS 중회 상 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3137&OrderColumn=Book_Pub_Date&OrderSort=desc)
-[교재: 김재호&김한솔 IFRS 중회 하 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3138&OrderColumn=Book_Pub_Date&OrderSort=desc)
-[강의: 김한솔 IFRS 중회, 2501](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&Goods_Idx=47503)
+- [교재: 김재호&김한솔 IFRS 중회 상 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3137&OrderColumn=Book_Pub_Date&OrderSort=desc)
+- [교재: 김재호&김한솔 IFRS 중회 하 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3138&OrderColumn=Book_Pub_Date&OrderSort=desc)
+- [강의: 김한솔 IFRS 중회, 2501](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&Goods_Idx=47503)
 <br>
 
 연습서
-[교재: 김한솔 2026 공인회계사 2차 재무회계연습 중급회계편](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3318&OrderColumn=Book_Pub_Date&OrderSort=desc)
-[강의: 김한솔 재무회계연습, 2503](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=48628)
+- [교재: 김한솔 2026 공인회계사 2차 재무회계연습 중급회계편](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3318&OrderColumn=Book_Pub_Date&OrderSort=desc)
+- [강의: 김한솔 재무회계연습, 2503](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=48628)
 
 <br>
 
 이외 서적들
-[교재: 김재호&김한솔 잼회 객관식 Final, 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3313&OrderColumn=Book_Pub_Date&OrderSort=desc)
-[교재: 김재호&김한솔 2026 1차 기출 베스트 문제](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3293&OrderColumn=Book_Pub_Date&OrderSort=desc)
-[강의: 김한솔 객관식 잼회(중회), 2509, 기베문 강의](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=50676&Book_Idx=3293&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
-[교재: 김재호&김한솔 기출 베스트 모의고사(기베모), 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3303&OrderColumn=Book_Pub_Date&OrderSort=desc)
+- [교재: 김재호&김한솔 잼회 객관식 Final, 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3313&OrderColumn=Book_Pub_Date&OrderSort=desc)
+- [교재: 김재호&김한솔 2026 1차 기출 베스트 문제](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3293&OrderColumn=Book_Pub_Date&OrderSort=desc)
+- [강의: 김한솔 객관식 잼회(중회), 2509, 기베문 강의](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=50676&Book_Idx=3293&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
+- [교재: 김재호&김한솔 기출 베스트 모의고사(기베모), 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3303&OrderColumn=Book_Pub_Date&OrderSort=desc)
 
 
 <br><br><br>
@@ -76,7 +76,7 @@ date: 2025-12-27 00:08:53 +0900
 
 #### 경영학
 **내용상으로 저걸 들어도 될지는 공기업 게시판, 스터디 등에서 물어보고 확정짓기**
-[강의&교재: 경영학 통합전공, 경영학 압축정리 강의](https://www.namucpa.com/lecture/lectureONdetail.asp?ridx=1026&gidx=1026&midx=1028&lcsSection_ccd=12103&lcsLicense_ccd=10617&lecSalesStatus_ccd=12201&lecIDX=29809)
+- [강의&교재: 경영학 통합전공, 경영학 압축정리 강의](https://www.namucpa.com/lecture/lectureONdetail.asp?ridx=1026&gidx=1026&midx=1028&lcsSection_ccd=12103&lcsLicense_ccd=10617&lecSalesStatus_ccd=12201&lecIDX=29809)
 
 
 <br><br><br>
@@ -85,9 +85,9 @@ date: 2025-12-27 00:08:53 +0900
 #### 원가
 **23년도 건 하끝 강의가 없어서 26으로 가면 될 듯, 옛날거 구할 수는 있는데 굳이..?**
 
-[교재: 2026 하루에 끝장내기 원가관리회계_임세진, 2511](https://product.kyobobook.co.kr/detail/S000218352350)
-[교재: 2023 하루에 끝장내기 원가관리회계_임세진](https://www.yes24.com/Product/Goods/115203135)
-[강의: 원가관리회계 FINAL(하끝) 특강(25년 11월)](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=51276&Book_Idx=3340&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
+- [교재: 2026 하루에 끝장내기 원가관리회계_임세진, 2511](https://product.kyobobook.co.kr/detail/S000218352350)
+- [교재: 2023 하루에 끝장내기 원가관리회계_임세진](https://www.yes24.com/Product/Goods/115203135)
+- [강의: 원가관리회계 FINAL(하끝) 특강(25년 11월)](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=51276&Book_Idx=3340&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
 
 <br><br><br>
 
