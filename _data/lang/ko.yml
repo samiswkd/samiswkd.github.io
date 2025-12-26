@@ -19,7 +19,7 @@ lng:
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
-  long: "%Y년%m월%d일"
+  long: "%Y년 %m월 %d일"
   day: "%d일"
   year: "%Y년"
   # months itself also used in Archive page.
@@ -66,7 +66,7 @@ not-found:
 # for post layout
 post:
   read_time:
-    unit: "분"
+    unit: "명"
     text: " 읽음"
     # c for char w for word
     word_char: c
