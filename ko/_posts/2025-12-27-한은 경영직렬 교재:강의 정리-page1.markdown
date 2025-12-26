@@ -46,7 +46,6 @@ date: 2025-12-27 00:08:53 +0900
 ##### 잼관
 잼관은 그냥 기본서 산 거 맞춰서 강의 사고, 다 돌린 뒤에 연습서 및 일특 & 강의 사서 보면 될 듯
 
-<br><br><br>
 
 #### 잼회
 **기본서, 연습서 모두 김한솔로**<br>
@@ -61,7 +60,6 @@ date: 2025-12-27 00:08:53 +0900
 연습서
 - [교재: 김한솔 2026 공인회계사 2차 재무회계연습 중급회계편](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3318&OrderColumn=Book_Pub_Date&OrderSort=desc)
 - [강의: 김한솔 재무회계연습, 2503](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=48628)
-
 <br>
 
 이외 서적들
@@ -71,16 +69,11 @@ date: 2025-12-27 00:08:53 +0900
 - [교재: 김재호&김한솔 기출 베스트 모의고사(기베모), 강의 X](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3303&OrderColumn=Book_Pub_Date&OrderSort=desc)
 
 
-<br><br><br>
 
 
 #### 경영학
 **내용상으로 저걸 들어도 될지는 공기업 게시판, 스터디 등에서 물어보고 확정짓기**
 - [강의&교재: 경영학 통합전공, 경영학 압축정리 강의](https://www.namucpa.com/lecture/lectureONdetail.asp?ridx=1026&gidx=1026&midx=1028&lcsSection_ccd=12103&lcsLicense_ccd=10617&lecSalesStatus_ccd=12201&lecIDX=29809)
-
-
-<br><br><br>
-
 
 #### 원가
 **23년도 건 하끝 강의가 없어서 26으로 가면 될 듯, 옛날거 구할 수는 있는데 굳이..?**
