@@ -13,10 +13,10 @@ tags: [jekyll, sample]
 # thumbnail image for post
 img: ":대파.jpg"
 # disable comments on this page
-#comments_disable: true
+comments_disable: false
 
 # publish date
-date: 2025-12-25 11:08:03 +0900
+date: 2025-12-26 17:58:03 +0900
 
 # seo
 # if not specified, date will be used.
