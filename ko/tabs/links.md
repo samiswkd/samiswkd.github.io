@@ -42,49 +42,53 @@ lng_pair: id_links
 page_data:
   main:
     header: "링크"
-    info: "귀하의 링크 페이지 설명."
+    info: "각종 링크들을 정리해뒀습니다."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
+    - title: "경제학"
+      type: id_econ
       color: "gray"
     - title: "웹 디자인"
       type: id_webdesign
       color: "#F4A273"
-    - title: "프로그램 작성"
-      type: id_programming
+    - title: "시계"
+      type: id_watch
       color: "#62b462"
 
   list:
     -
     # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow는 전문적이고 열정적인 프로그래머를 위한 질문 및 답변 웹사이트입니다."
+    - type: id_watch
+      title: "신세계면세점"
+      url: "https://www.ssgdfs.com/kr/dispctg/ctg/watch_jewelry/mens_watch"
+      info: "신세계면세점 시계 코너입니다. 가끔 세일을 많이 하는 상품들이 있습니다."
+    - type: id_watch
+      title: "Etsy"
+      url: "https://www.etsy.com/?gad_source=1&gad_campaignid=20454739093&gbraid=0AAAAADrDmr_1W1kJtaL3N7aQ4gU4v5-al&gclid=Cj0KCQjww-HABhCGARIsALLO6XxusEIfVyTOaKFZ_dqQnUEG6rmX-Or7dYI_2v1xPlh-VInxJgVrQpoaAjKrEALw_wcB"
+      info: "주문제작 사이트인데, 시계줄(주로 레더)을 저렴한 가격으로 구할 수 있다고 합니다."
 
     # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "일반 텍스트를 정적 웹사이트 및 블로그로 변환합니다."
-    - type: id_jekyiiliquid
-      title: "Jekyll 치트 시트"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "기억해야 할 Jekyll 변수와 필터가 너무 많아서 머릿속에 모두 담아두기가 까다로울 수 있습니다. 이 치트 시트는 Jekyll이 할 수 있는 모든 것에 대한 빠른 참조 역할을 합니다."
-    - type: id_jekyiiliquid
-      title: "디자이너를 위한 Liquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "GitHub의 디자이너를 위한 Liquid 위키"
-    - type: id_jekyiiliquid
-      title: "프로그래머를 위한 Liquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "GitHub의 프로그래머를 위한 Liquid 위키"
-    - type: id_jekyiiliquid
-      title: "Liquid 참조"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid는 Shopify에서 생성하고 Ruby로 작성된 템플릿 언어입니다. 이제 GitHub에서 오픈 소스 프로젝트로 사용할 수 있습니다."
+    - type: id_econ
+      title: "한국은행 보도자료"
+      url: "https://www.bok.or.kr/portal/singl/newsData/list.do?pageIndex=&targetDepth=3&menuNo=201263&syncMenuChekKey=1&depthSubMain=&subMainAt=&searchCnd=1&searchKwd=&depth2=200038&depth3=201263&date=&sdate=&edate=&sort=1&pageUnit=10"
+      info: "한국은행의 보도자료를 올리는 페이지로 BOK이슈노트, 통신/경제전망/금안보고서 등을 통해 시사 상식을 채울 수 있을 것입니다."
+    - type: id_econ
+      title: "한국은행 경제연구원 보도자료"
+      url: "https://www.bok.or.kr/imer/singl/rsrchrData/list.do?pageIndex=1&targetDepth=2&menuNo=500535&syncMenuChekKey=2&searchCnd=1&searchKwd=&date=&sdate=&edate=&sort=1&pageUnit=10"
+      info: "한국은행 산하 국책연구소 경제연구원의 보도자료로, 학술적이지만 재미있는 자료들이 많습니다."
+    - type: id_econ
+      title: "KDI"
+      url: "https://www.kdi.re.kr/"
+      info: "한국의 대표적 국책연구소 한국개발연구원의 홈페이지입니다."
+    - type: id_econ
+      title: "John Bates Clark Medal"
+      url: "https://www.aeaweb.org/about-aea/honors-awards/bates-clark"
+      info: "AEA에서 수상하는 John Bates Clark Medal 수상자 및 업적을 소개하는 페이지로, 경제학계 트렌드 파악에 도움이 됩니다."
+    - type: id_econ
+      title: "Fed"
+      url: "https://www.federalreserve.gov/"
+      info: "미국 중앙은행 Fed의 홈페이지입니다."
 
     # webdesign
     - type: id_webdesign
