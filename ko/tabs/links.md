@@ -55,10 +55,13 @@ page_data:
     - title: "시계"
       type: id_watch
       color: "#62b462"
+    - title: "피아노"
+      type: id_piano
+      color: "#2c74f2"
+
 
   list:
-    -
-    # programming
+    # watch
     - type: id_watch
       title: "신세계면세점"
       url: "https://www.ssgdfs.com/kr/dispctg/ctg/watch_jewelry/mens_watch"
@@ -68,7 +71,7 @@ page_data:
       url: "https://www.etsy.com/?gad_source=1&gad_campaignid=20454739093&gbraid=0AAAAADrDmr_1W1kJtaL3N7aQ4gU4v5-al&gclid=Cj0KCQjww-HABhCGARIsALLO6XxusEIfVyTOaKFZ_dqQnUEG6rmX-Or7dYI_2v1xPlh-VInxJgVrQpoaAjKrEALw_wcB"
       info: "주문제작 사이트인데, 시계줄(주로 레더)을 저렴한 가격으로 구할 수 있다고 합니다."
 
-    # jekyiiliquid
+    # econ
     - type: id_econ
       title: "한국은행 보도자료"
       url: "https://www.bok.or.kr/portal/singl/newsData/list.do?pageIndex=&targetDepth=3&menuNo=201263&syncMenuChekKey=1&depthSubMain=&subMainAt=&searchCnd=1&searchKwd=&depth2=200038&depth3=201263&date=&sdate=&edate=&sort=1&pageUnit=10"
@@ -95,4 +98,36 @@ page_data:
       title: "W3Schools"
       url: "https://www.w3schools.com/"
       info: "W3Schools는 웹의 모든 주요 언어로 된 무료 온라인 자습서, 참조 및 연습을 제공합니다. HTML, CSS, JavaScript, Python, SQL, Java 등과 같은 인기 있는 주제를 다룹니다."
+      
+    # piano
+    - type: id_piano
+      title: "Reminiscence"
+      url: "https://www.youtube.com/watch?v=QdfcrCxQFfU&list=RDQdfcrCxQFfU&start_radio=1"
+      info: "게임 테일즈위버 OST인 Reminiscence(회상)이란 곡입니다. 슬프면서도 기승전결이 확실한게 아주 취향저격입니다."
+    - type: id_piano
+      title: "Last Carnival"
+      url: "https://www.youtube.com/watch?v=0c4-bXDBIss&list=RD0c4-bXDBIss&start_radio=1"
+      info: "일본 뉴에이지 그룹 Acoustic Cafe의 Last Carnival이란 곡입니다. 피아노 인생 2번째로 연습한 곡입니다."
+    - type: id_piano
+      title: "Merry Christmas Mr. Lawrence"
+      url: "https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1"
+      info: "일본 유명 작곡가 류이치 사카모토가 작곡한, 영화 '전장의 크리스마스'의 제목이자 OST입니다. 류이치 사카모토는 좋은 노래가 많아 뭐라도 한 번 연습해보고 싶은데, 언제 할 지 모르겠네요."
+    - type: id_piano
+      title: "Romance"
+      url: "https://www.youtube.com/watch?v=oYfM77jcUt8&list=RDoYfM77jcUt8&start_radio=1"
+      info: "2005년작 한국 느와르 영화'달콤한 인생'의 OST입니다. 멜로디 이전의 독백이 인상적입니다."
+    - type: id_piano
+      title: "Epilogue"
+      url: "https://www.youtube.com/watch?v=BvQxBq9Yfh8&list=RDBvQxBq9Yfh8&start_radio=1"
+      info: "2003년작 한국 공포영화 '장화, 홍련'의 OST입니다. 음들의 시간을 미세하게 조절하는 표현적 타이밍과 리듬적 변이가 인상깊습니다."
+    - type: id_piano
+      title: "Graceful Ghost"
+      url: "https://www.youtube.com/watch?v=k_kQAR0RLDQ&list=RDk_kQAR0RLDQ&start_radio=1"
+      info: "미국의 작곡가 William Bolcom이 작곡한 유명한 피아노 곡입니다. 돌아가신 아버지를 추모하기 위한 곡이라는 점을 알고나면 왠지 모르게 슬프게 느껴지는 곡입니다."
+    - type: id_piano
+      title: "Sentimental"
+      url: "https://www.youtube.com/watch?v=MJw4xjB73PE&list=RDMJw4xjB73PE&start_radio=1"
+      info: "한국의 작곡가 겸 피아니스트 이진욱의 Sentimental이란 곡입니다. 공부할 때 정신차리기 좋은 곡입니다."
+
+
 ---
