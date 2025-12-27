@@ -43,46 +43,79 @@ date: 2025-12-27 01:22:53 +0900
 
 <!-- outline-start -->
 
-ALIO 통해 연봉 정보도 넣어놓기 <br>
+#### 다음 포스트 계획
+1. 한은 필기시험 외 준비계획: 자소서, 면접 등 대비
+2. 한능검, 컴활 1급 등 공기업에 필요한 자격증 취득 계획
+3. 학기병행 구체화: 26-1 수업 뭐 들을지, 최대한 시간 아끼는 방향으로
+4. 합격수기 추가수집 및 정리: 되도록이면 최근, 나와 비슷한 상황인 사람 참고용
+<br><br>
 
 ##### 배경
-**아무래도 한은 경영직렬은 채용인원이 워낙 적다보니,, 플랜b는 언제나 준비해둬야겠지**<br>
+**아무래도 한은 경영직렬은 채용인원이 워낙 적다보니,, 플랜b는 언제나 준비해둘 필요가 있음**<br>
 한은 경영직렬 대비 내용이 cpa 관련 과목들이므로, 해당 내용을 최대한 레버리지할 수 있는 기업들을 정리해보자면<br>
 1. 한은 제외 a,b매치 금융공기업들: 한국수출입은행, 한국투자공사, 한국증권금융, 산업은행, 한국거래소, OO공제회, OO보험공단 등
 2. 대기업 재무회계/경영지원팀: cpa 내용 레버리징, 1차합이 아니며 인턴 경험 없어 쉽지 않을 것으로 예상
+<br>
 
 #### 한국수출입은행 K-EXIM
-**한은 제외 가장 가고 싶은 회사**<br>
+**한은 외 가장 가고 싶은 회사**<br>
 자소서 작성 시 라이프아카데미에서 진행했던 EDCF 등 통해 업무 어필<br>
-- 상반기(3-4월)/하반기(8-9월)로 채용
+- 상반기(3-4월)/하반기(8-9월)로 채용: 17명 수준
+- 영어 성적/수은 인턴/자격증이 중요, ncs 시험 봄
 - [한국수출입은행 채용홈페이지](https://koreaexim.incruit.com/)
 - [한국수출입은행 홈페이지](https://www.koreaexim.go.kr/index)
+- 수은 정규직 평균연봉
 [![수은 정규직 평균연봉](https://i.postimg.cc/509Z75Yx/sueun-jeong-gyujig-pyeong-gyun-yeonbong.jpg)](https://postimg.cc/5HG7jCSG)
+- 수은 초봉
 [![수은 초봉](https://i.postimg.cc/Wpd2sj3H/sueun-chobong.jpg)](https://postimg.cc/V5cyFxXq)
 <br>
 
 
 #### 한국투자공사 KIC
-**한은 제외 가장 가고 싶은 회사2**<br>
-- 1년 1회 채용: 주로 5-6월에 채용공고 공개
+**한은 외 가장 가고 싶은 회사2**<br>
+- 1년 1회 채용: 주로 5-6월에 채용공고 공개, 5명 규모(.......)
 - [KIC 채용홈페이지](https://kicrecruit.fairyhr.com/)
 - [KIC 홈페이지](https://www.kic.kr/)
+- ncs 시험쳐야 함, 투자운용이 잼회 내용 포함, 영어 성적이 중요(영어면접 봄)
+- 한투공 정규직 평균연봉
+[![한투공 정규직 평균연봉](https://i.postimg.cc/L4JZwcMt/hantugong-jeong-gyujig-pyeong-gyun-yeonbong.jpg)](https://postimg.cc/WtP3Jfzz)
+- 한투공 초봉
+[![한투공 초봉](https://i.postimg.cc/MKkX4XDD/hantugong-chobong.jpg)](https://postimg.cc/9zpWwmsR)
 <br>
 
-#### 한국증권금융
 
+#### 한국증권금융
+**밸런스 좋은 회사라고 유명**<br>
+- 상반기(3월)/하반기(9월)로 채용: 8명 규모(...)
+- ncs 없고 전공필기시험 후 면접
+- [한증금 채용홈페이지](https://ksfc.saramin.co.kr/service/ksfc/3642/applicant/apply/recruit_default.asp)
+- [한증금 홈페이지](https://www.ksfc.co.kr:4443/main.do)
+- 공공기관이 아니라 공식 연봉정보 X, 대략 평균 9~10천만원 & 초봉 5천
+<br>
 
 
 #### 한국산업은행
-- 상반기/하반기(8-9월)로 채용
+- 상반기(3월)/하반기(9월)로 채용: 25명 규모
+- [산은 채용홈페이지](https://recruit.kdb.co.kr/index.jsp)
+- [산은 홈페이지](https://www.kdb.co.kr/index.jsp)
+- 우리나라의 산업개발과 국민경제의 발전을 위하여 '54년 설립되었으며, 전후 경제재건 주도, 국가 성장동력 확보, 시장안전판 역할 수행 등 시대적 요구에 부응하는 역할을 통해 산업과 국민경제 발전을 선도하였습니다.
+- [![산은 평균연봉](https://i.postimg.cc/vZLHgz5Y/san-eun-jeong-gyujig-pyeong-gyun-yeonbong.jpg)](https://postimg.cc/4YyTjp8q)
+- [![산은 초봉](https://i.postimg.cc/pTy2SM4q/san-eun-chobong.jpg)](https://postimg.cc/YGKK4ZpW)
+<br>
 
+#### 한국거래소 KRX
+- 1년 1회 채용: 16명 규모
+- [거래소 채용홈페이지](https://krx.saramin.co.kr/service/krx/index.asp) 
+- [거래소 홈페이지](https://www.krx.co.kr/main/main.jsp)
+- (주)한국거래소는 증권 및 장내파생 상품의 공정한 가격 형성과 그 매매, 그 밖의 거래의 안정성 및 효율성을 도모하기 위하여 증권거래소, 선물거래소, 코스닥 위원회, (주)코스닥증권시장 등 4개 기관이 통합되어 2005년 1월 27일 설립되었습니다.
+- 2015 공공기관 지정 해제로 alio 정보 없음, 대략 평균 1.1억, 초봉 4.4천
 
 <br><br><br>
 
 ### 정리
 
-1. 한은 외에도 좋은 기업은 많고, 한은 떨어질 확률도 있으니 플랜비는 언제나 준비해두는게 좋다
+1. 한은 외에도 좋은 기업은 많고, 한은 떨어질 확률도 있으니 플랜비는 언제나 염두에 두자
 2. 그럼에도 한은에 떨어질 일은 없다 생각하고 공부하기
-
+3. 그리고 한능검, 컴활 1급 등 공기업에 필요한 자격증들은 틈틈이 따놓기
 
 <!-- outline-end -->
