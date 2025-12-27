@@ -40,14 +40,11 @@ img: ":about.jpg"
 
 ## Employment
 
-- Undergraduate @ Yonsei University
+- Undergraduate Student @ Yonsei University
 - Aspiring for BOK (2027 Plz)
 
 ## Education
 
-- Singapore International School, Ho Chi Minh, Vietnam (Aug 2008 - Jul 2009)
-- British International School, Ho Chi Minh, Vietnam (Aug 2009 - Dec 2011)
-- Sehwa High School, Seoul, Republic of Korea (Mar 2016 - Fen 2019)
 - Yonsei University, Seoul, Republic of Korea (Mar 2020 - Present)
     - Major at Business
     - Major at Economics (Double major)
@@ -55,11 +52,15 @@ img: ":about.jpg"
 - University of California, Berkeley, California, United States (Jan 2024 - May 2024)
     - Exchange Abroad Program
     - Majored for Economics
+- Sehwa High School, Seoul, Republic of Korea (Mar 2016 - Fen 2019)
+- British International School, Ho Chi Minh, Vietnam (Aug 2009 - Dec 2011)
+- Singapore International School, Ho Chi Minh, Vietnam (Aug 2008 - Jul 2009)
 
 ## Academic Interests
 
 - **Economics**: Monetary economics, Information economics
 - **Business**: Valuation theory, Executive Compensation 
+- **Food**: What kind of person loves Hawaiian Pizza?
 
 ## Programming Languages
 
