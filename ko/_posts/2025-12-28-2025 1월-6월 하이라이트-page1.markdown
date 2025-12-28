@@ -16,7 +16,7 @@ img: ":4월_한강산책2.jpg"
 comments_disable: false
 
 # publish date
-date: 2025-12-29 01:20:53 +0900
+date: 2025-12-29 01:40:53 +0900
 
 # seo
 # if not specified, date will be used.
