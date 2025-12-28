@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_ko_3
+lng_pair: id_ko_4
 title: "한은 플랜b 정리"
 
 # post specific

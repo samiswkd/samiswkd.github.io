@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_ko_1
+lng_pair: id_ko_2
 title: "한은 경영직렬 계획"
 
 # post specific
