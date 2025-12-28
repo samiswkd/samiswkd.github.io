@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [jekyll, example post]
 # thumbnail image for post
-img: ":4월_한강산책1.jpg"
+img: ":4월_한강산책2.jpg"
 # disable comments on this page
 comments_disable: false
 
