@@ -16,7 +16,7 @@ img: ":4월_한강산책2.jpg"
 comments_disable: false
 
 # publish date
-date: 2025-12-29 00:05:53 +0900
+date: 2025-12-29 01:20:53 +0900
 
 # seo
 # if not specified, date will be used.
@@ -44,7 +44,8 @@ search_engine_exclude: true
 <!-- outline-start -->
 
 
-#### January <br>
+#### January 
+<br>
 
 [![증사](https://i.postimg.cc/Kjjkdvjs/1wol-jeungsa.avif)](https://postimg.cc/9w3Q92GG)<br>
 증사를 찍었다.<br>
@@ -59,7 +60,8 @@ search_engine_exclude: true
 [![시간표.png](https://i.postimg.cc/L5F4V9fB/1wol-gyehoegpyo.png)](https://postimg.cc/LYvM9Mxn)<br>
 생각해보니 나 컴과 부전공하려고 했었다! 결국 수강신청이 어려워서 못했지만,, <br>
 
-#### February <br>
+#### February 
+<br>
 
 [![동기mt.avif](https://i.postimg.cc/mgCwdV0b/2wol-dong-gimt.avif)](https://postimg.cc/SnQCRLS5)<br>
 학회 동기들이랑 처음으로 mt도 가봤음. 술게임이 좀 쫄리긴 했는데 나름 재밌었던! <br>
@@ -70,7 +72,8 @@ search_engine_exclude: true
 [![서북.png](https://i.postimg.cc/ZKkj61QJ/2wol-seobughabgyeog.png)](https://postimg.cc/LhTzp0RW)<br>
 갑작스레 인턴에 합격돼서 다니게 되었다. 역시 난 조금이라도 학술적인 일을 해야겠다고 깨달은 경험.. <br>
 
-#### March <br>
+#### March 
+<br>
 
 [![3월 mt.jpg](https://i.postimg.cc/QCMDmFCX/3wol-mt.jpg)](https://postimg.cc/ft11TTYF)<br>
 아랫기수랑 합쳐서 또 mt를 갔다. 뭘 한지는 기억이 안 나는데, 아침에 일어나보니 안개가 엄청 꼈던 것만 기억남. <br>
@@ -82,6 +85,7 @@ search_engine_exclude: true
 이때부터 슬슬 한은 준비를 마음 속에 뒀던 것 같다. 근데 왜 이제야 시작했을까..... <br>
 
 #### April
+<br>
 
 [![한강산책.avif](https://i.postimg.cc/T33kPnS3/4wol-hangangsanchaeg1.avif)](https://postimg.cc/xcBGxNnw)<br>
 4월은 시험기간이라 별거 안 하고 산책을 자주 했다. 한강도 가보고~ <br>
@@ -92,7 +96,8 @@ search_engine_exclude: true
 [![해석학.png](https://i.postimg.cc/XJ4BVkHR/4wol-haeseoghag.png)](https://postimg.cc/06XynDqn)<br>
 중간고사 끝! 역대급 최저 점수도 받았다 <br>
 
-#### May <br>
+#### May 
+<br>
 
 [![상대 멘토링.avif](https://i.postimg.cc/bv3pt0Y1/5wol-sang-gyeongdaementoling.avif)](https://postimg.cc/p9hwNFFd)<br>
 상경대 멘토링해서 맛있는 밥도 얻어 먹었음. <br>
@@ -107,7 +112,8 @@ search_engine_exclude: true
 그리고 대망의 아카라카! <br>
 코로나학번이라(......) 처음 가보는 아카라카였는데 재밌었다 <br>
 
-#### June <br>
+#### June 
+<br>
 
 [![6wol-seupig.jpg](https://i.postimg.cc/5NSCRGsy/6wol-seupig.jpg)](https://postimg.cc/ykWxJf4C)<br>
 교환 끝나고 바로 시작한 스픽이 딱 1년 돼서 체크해봤는데 상위 1%여서 자랑스러웠음 ㅎㅎ <br>
