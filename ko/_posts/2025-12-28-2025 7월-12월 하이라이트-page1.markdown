@@ -1,0 +1,148 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ko_6
+title: "2025 7월-12월 하이라이트"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: "이승훈"
+# multiple category is not supported
+category: auto generated
+# multiple tag entries are possible
+tags: [jekyll, example post]
+# thumbnail image for post
+img: "9월_개강저녁.jpg"
+# disable comments on this page
+comments_disable: false
+
+# publish date
+date: 2026-01-07 13:40:53 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+on_site_search_exclude: true
+# exclude from search engines
+search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+# published: false
+---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+<!-- outline-start -->
+
+...이전 포스트에 이어서
+
+#### July 
+<br>
+
+[![7월_한은통경시.jpg](https://i.postimg.cc/9FSX4KSd/7월_한은통경시.jpg)](https://postimg.cc/6yrxgjBq) <br>
+우리팀의 이름은... 부채소년단(...) <br>
+사실 팀장 친구가 제출 10분 전에 지피티에 검색해서 결정한 팀명인데...정말 그런것 같다 <br>
+아무튼 지역예선 나가서 상받았다 
+
+[![7월_금경법.png](https://i.postimg.cc/pX7V947D/7월_금경법.png)](https://postimg.cc/GHFnV7b2) <br>
+그리고 또 그 친구랑 법 관련 공모전을 나갔는데.. 결과는 아쉽게도 ㅠㅠ <br>
+예전에 로스쿨 교수님이랑 상담했던 적이 있는데, 교수님이 유독 경제학과 학생들 중에 로스쿨에 와서 적응을 못하는 비율이 높다고 불만을 토로하셨던 적이 있다. <br>
+사실 느낌만 가져가고 크게 공감이 가진 않았는데, 해당 공모전을 진행하며 교수님이 어떤 부분에 대해 이야기했는지 깨달았다. <br>
+
+[![7월_IQC예선.jpg](https://i.postimg.cc/15TRg2T6/7월_IQC예선.jpg)](https://postimg.cc/QHQZw4jx) <br>
+IQC 국가대표전에 참가자 자격으로 가서 재밌는 발표도 많이 들었다. <br>
+와이폼 화이팅!!! <br>
+
+[![7월_무구옥.jpg](https://i.postimg.cc/gk5cwQ5K/7월_무구옥.jpg)](https://postimg.cc/WhGcCWsD) <br>
+인턴을 하는 동기 추천으로 무슨 북한식 삼계탕? 집에 갔는데 국이 따로 나오고 닭고기를 찍먹는 식이었다 <br>
+맛있었다. 재방문 의사 있음 <br>
+
+#### August 
+<br>
+
+[![8월_두두.jpg](https://i.postimg.cc/KvVcKwVJ/8월_두두.jpg)](https://postimg.cc/rK123nqr) <br>
+8월엔 일본 교환을 가는 친구와 만나기로 해서 4명 오기로 했는데 음식점에 나밖에 안 왔다... <br>
+
+[![8월_발제.png](https://i.postimg.cc/sD8fBq8T/8월_발제.png)](https://postimg.cc/TpVvF7Tb) <br>
+교수님께서 매달 진행하시는 세미나에서 첫 발제를 해보기도 했다. 물론 결과는 처참했지만 나름 재밌었던 <br>
+
+[![8월_긱사.jpg](https://i.postimg.cc/fTFW3pFf/8월_긱사.jpg)](https://postimg.cc/HVw1RZTr) <br>
+그리고 드디어 기숙사에 갔다! 국내 처음이자 마지막 대학교 기숙사 생활의 시작이었다 <br>
+
+#### September 
+<br>
+
+[![9월_튜터링.png](https://i.postimg.cc/5NG9HTGG/9월_튜터링.png)](https://postimg.cc/TpVvF7Tq) <br>
+마지막 학기... 뭔가 아쉬움이 남아 처음으로 튜터링 신청했다. 그래도 이거 없었으면 지금 성적도 안 나왔을 듯 <br>
+
+[9월_광화문국밥.jpg](https://postimg.cc/fJcQp2Mm) <br>
+이건 그냥 순대 사진 너무 잘 찍어서 <br>
+
+[9월_자전거.jpg](https://postimg.cc/QHQZw4jm) <br>
+또 최준호랑 용산 놀러갔다가 할거 없어서 동작인가 사당까지 자전거 타고 갔다 <br>
+
+[9월_연고전.jpg](https://postimg.cc/F7yX8Whb) <br>
+연고전도 갔다! 농구 좀 아쉽던데 <br>
+
+#### October
+<br>
+
+[10월_경복궁2.jpg](https://postimg.cc/QFjZ3QM7) <br>
+교환학생 친구들이랑 경복궁에 한복 입고 갔는데, 진짜 너무 추워서 많이 못 놀았다. <br>
+현민이가 추진했던 건데... 날씨만 빼면 생각보다 괜찮았던 듯 <br>ㄱ
+아 그리고 틱토커 동남아분께 혼인신고 당했다 <br>
+
+[10월_일월카츠.jpg](https://postimg.cc/sM3CrY24) <br>
+맛있다고 많이 들었던 일월카츠도 갔는데, 생각보다 그냥 그랬음. 헤키가 나은듯... 눈을 안 감고 먹어서 그런가 <br>
+
+[10월_방어회.jpg](https://postimg.cc/jDRYbHjP) <br>
+민석이형 집 가서 공짜 방어회도 먹었는데 꿀맛 <br>
+
+#### November 
+<br>
+
+[11월_교보문고맛.jpg](https://postimg.cc/PCdnjWqb) <br>
+연세크림빵 교보문고맛 먹어봤는데 낫밷... 하지만 말차를 넘어서기엔 한참 남았다
+
+[11월_헤키.jpg](https://postimg.cc/68BxXrQm) <br>
+헤키라는 흑백요리사 출연(나중에 앎)한 음식점에 갔는데, 옆자리에 앉은 손님이 자리 자리 앞에 커튼이 없다고 성질냈다... <br>
+그래도 맛이 더 잘 느껴진다고 눈을 감고 막 먹으면서 화가 풀린 것 같아 다행 <br>
+
+[![11월_롤드컵.jpg](https://i.postimg.cc/K8MGtQSd/11월_롤드컵.jpg)](https://postimg.cc/YvtBH6S3) <br>
+오랜만에 민성이 만나서 아웃닭에서 롤드컵 중계함 <br>
+티원 이겨서 조금 화남 <br>
+
+[![11월_베개.jpg](https://i.postimg.cc/CxqhbJpg/11월_베개.jpg)](https://postimg.cc/k27PmQ51) <br>
+급하게 기숙사 가느라 가방에 왕 큰 베개를 이고 갔던 음식점인데 급하게 예약한 곳치고 맛있었다. <br>
+뇨끼랑 파스타 둘다 굿 <br>
+
+[![11월_찻집.jpg](https://i.postimg.cc/dVysGncF/11월_찻집.jpg)](https://postimg.cc/qNpHTs7D) <br>
+찻집은 처음 가봤는데 노곤노곤하고 따수운 분위기가 인상 깊었다. 프라이빗 룸인 점도 좋았다. <br>
+재방문 의사 있음~ <br>
+
+#### December 
+<br>
+
+[![12월_라면탑대참사.jpg](https://i.postimg.cc/nhDFqTfV/12월_라면탑대참사.jpg)](https://postimg.cc/pmPMHfd3) <br>
+12월은 뭐 알바도 적응돼서 라면탑 쌓다 참사가 나도 사진이나 찍는 그런 평화로운 생활을 보내고 있었는데... <br>
+
+[![12월_그사건.jpg](https://i.postimg.cc/HkyYb31T/12월_그사건.jpg)](https://postimg.cc/0z91sYN4) <br>
+**그 사건이 일어났다...** 주토피아2를 보려고 그렇게 신나 있었는데... 결국 2주동안 거의 아무것도 못하고 수술까지 할 뻔... 사실 이 글도 거치대한 채로 작성하고 있음 <br>
+
+[![12월_노잼인생.jpg](https://i.postimg.cc/JzkrjKCr/12월_노잼인생.jpg)](https://postimg.cc/nXnfJ4Lg) <br>
+그리고 그렇게 한은 준비를 위한 노잼인생이 시작됐다 ... <br>
+
+생각보다 찍은 사진이 적은 듯 많아 정리하느라 많이 늦었는데, 그래도 나름 괜찮은 하반기를 보냈던 것 같다. <br>
+2026년은 적토마의 해로 하고 지긋지긋한 취준도 끝내고 보다 안정적으로 마무리되는 해였으면 좋겠다~~~ 빨리 팔 낫구 자주 만나자구요  ㅠㅠㅠ
+
+
+<!-- outline-end -->

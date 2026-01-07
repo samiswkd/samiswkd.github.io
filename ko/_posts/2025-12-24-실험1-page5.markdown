@@ -32,11 +32,11 @@ date: 2025-12-24 20:16:53 +0900
 # image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
 #image_lazy_loader_on: true
 # exclude from on site search
-#on_site_search_exclude: true
+on_site_search_exclude: true
 # exclude from search engines
-#search_engine_exclude: true
+search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
@@ -44,20 +44,20 @@ published: false
 <!-- outline-start -->
 
 **혜림 ♡ 하와이안 피자** <br>
-앞으로 실험은 다 여기서 해야지 !!
 
+마크다운 형식 연습해보는 페이지 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xp3RLneoaKs?si=hOz4u3icUq4uFBvn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-공군 군견 브이로그
+공군 군견 브이로그 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yh5eplK3QWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-몽자
+몽자 <br>
 
 
 [![혜림넴이좋아하는것](https://i.postimg.cc/XJzN9rGc/hawaianpija-nomo-eo.png)](https://postimg.cc/LYjMp6Vn)
 
-[혜림넴이따라오기시작했다](https://hyerimgwon.github.io/)
+[살려주세요~~...](https://hyerimgwon.github.io/)
 
-내 라이벌... 얼마나 꾸며놨는지 항상 확인해야지
+작년 이후로 아무것도 올라오지 않는 사이트... 주인은 어디로 간 것일까
 
 <!-- outline-end -->
