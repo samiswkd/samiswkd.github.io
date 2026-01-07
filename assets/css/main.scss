@@ -26,6 +26,12 @@
   --footer-height: 27px;
 }
 
+.big-font-post {
+  font-size: 1.5rem;   /* 1.0 → 1.1~1.2 정도로 올려보기 */
+  line-height: 1.7;
+}
+
+
 {% if site.data.conf.main.google_font_load_in_head == nil or site.data.conf.main.google_font_load_in_head == false %}
   @import url({{ site.data.conf.main.google_font_style_url }});
 {% endif %}
