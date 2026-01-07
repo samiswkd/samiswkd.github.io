@@ -43,8 +43,6 @@ search_engine_exclude: true
 
 <!-- outline-start -->
 
-<div class="big-font-post"> 
-
 ...이전 포스트에 이어서
 
 # July 
