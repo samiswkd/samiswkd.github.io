@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [jekyll, example post]
 # thumbnail image for post
-img: "9월_개강저녁.jpg"
+img: "::9월_개강저녁.jpg"
 # disable comments on this page
 comments_disable: false
 
@@ -46,7 +46,6 @@ search_engine_exclude: true
 ...이전 포스트에 이어서
 
 #### July 
-<br>
 
 [![7월_한은통경시.jpg](https://i.postimg.cc/9FSX4KSd/7월_한은통경시.jpg)](https://postimg.cc/6yrxgjBq) <br>
 우리팀의 이름은... 부채소년단(...) <br>
@@ -67,7 +66,6 @@ IQC 국가대표전에 참가자 자격으로 가서 재밌는 발표도 많이 
 맛있었다. 재방문 의사 있음 <br>
 
 #### August 
-<br>
 
 [![8월_두두.jpg](https://i.postimg.cc/KvVcKwVJ/8월_두두.jpg)](https://postimg.cc/rK123nqr) <br>
 8월엔 일본 교환을 가는 친구와 만나기로 해서 4명 오기로 했는데 음식점에 나밖에 안 왔다... <br>
@@ -79,41 +77,38 @@ IQC 국가대표전에 참가자 자격으로 가서 재밌는 발표도 많이 
 그리고 드디어 기숙사에 갔다! 국내 처음이자 마지막 대학교 기숙사 생활의 시작이었다 <br>
 
 #### September 
-<br>
 
 [![9월_튜터링.png](https://i.postimg.cc/5NG9HTGG/9월_튜터링.png)](https://postimg.cc/TpVvF7Tq) <br>
 마지막 학기... 뭔가 아쉬움이 남아 처음으로 튜터링 신청했다. 그래도 이거 없었으면 지금 성적도 안 나왔을 듯 <br>
 
-[9월_광화문국밥.jpg](https://postimg.cc/fJcQp2Mm) <br>
+[![9월_광화문국밥.jpg](https://i.postimg.cc/4NM4KqML/9월_광화문국밥.jpg)](https://postimg.cc/fJcQp2Mm) <br>
 이건 그냥 순대 사진 너무 잘 찍어서 <br>
 
-[9월_자전거.jpg](https://postimg.cc/QHQZw4jm) <br>
+[![9월_자전거.jpg](https://i.postimg.cc/9FSX4KS6/9월_자전거.jpg)](https://postimg.cc/QHQZw4jm) <br>
 또 최준호랑 용산 놀러갔다가 할거 없어서 동작인가 사당까지 자전거 타고 갔다 <br>
 
-[9월_연고전.jpg](https://postimg.cc/F7yX8Whb) <br>
+[![9월_연고전.jpg](https://i.postimg.cc/c4j1K2jz/9월_연고전.jpg)](https://postimg.cc/F7yX8Whb) <br>
 연고전도 갔다! 농구 좀 아쉽던데 <br>
 
 #### October
-<br>
 
-[10월_경복궁2.jpg](https://postimg.cc/QFjZ3QM7) <br>
+[![10월_경복궁2.jpg](https://i.postimg.cc/dVysGnP5/10월_경복궁2.jpg)](https://postimg.cc/QFjZ3QM7) <br>
 교환학생 친구들이랑 경복궁에 한복 입고 갔는데, 진짜 너무 추워서 많이 못 놀았다. <br>
 현민이가 추진했던 건데... 날씨만 빼면 생각보다 괜찮았던 듯 <br>ㄱ
 아 그리고 틱토커 동남아분께 혼인신고 당했다 <br>
 
-[10월_일월카츠.jpg](https://postimg.cc/sM3CrY24) <br>
+[![10월_일월카츠.jpg](https://i.postimg.cc/0ywk7ZRF/10월_일월카츠.jpg)](https://postimg.cc/sM3CrY24) <br>
 맛있다고 많이 들었던 일월카츠도 갔는데, 생각보다 그냥 그랬음. 헤키가 나은듯... 눈을 안 감고 먹어서 그런가 <br>
 
-[10월_방어회.jpg](https://postimg.cc/jDRYbHjP) <br>
+[![10월_방어회.jpg](https://i.postimg.cc/wjmqDF8f/10월_방어회.jpg)](https://postimg.cc/jDRYbHjP) <br>
 민석이형 집 가서 공짜 방어회도 먹었는데 꿀맛 <br>
 
 #### November 
-<br>
 
-[11월_교보문고맛.jpg](https://postimg.cc/PCdnjWqb) <br>
+[![11월_교보문고맛.jpg](https://i.postimg.cc/kgbJWw3H/11월_교보문고맛.jpg)](https://postimg.cc/PCdnjWqb) <br>
 연세크림빵 교보문고맛 먹어봤는데 낫밷... 하지만 말차를 넘어서기엔 한참 남았다
 
-[11월_헤키.jpg](https://postimg.cc/68BxXrQm) <br>
+[![11월_헤키.jpg](https://i.postimg.cc/fR9zY5QD/11월_헤키.jpg)](https://postimg.cc/68BxXrQm) <br>
 헤키라는 흑백요리사 출연(나중에 앎)한 음식점에 갔는데, 옆자리에 앉은 손님이 자리 자리 앞에 커튼이 없다고 성질냈다... <br>
 그래도 맛이 더 잘 느껴진다고 눈을 감고 막 먹으면서 화가 풀린 것 같아 다행 <br>
 
@@ -130,13 +125,13 @@ IQC 국가대표전에 참가자 자격으로 가서 재밌는 발표도 많이 
 재방문 의사 있음~ <br>
 
 #### December 
-<br>
 
 [![12월_라면탑대참사.jpg](https://i.postimg.cc/nhDFqTfV/12월_라면탑대참사.jpg)](https://postimg.cc/pmPMHfd3) <br>
 12월은 뭐 알바도 적응돼서 라면탑 쌓다 참사가 나도 사진이나 찍는 그런 평화로운 생활을 보내고 있었는데... <br>
 
 [![12월_그사건.jpg](https://i.postimg.cc/HkyYb31T/12월_그사건.jpg)](https://postimg.cc/0z91sYN4) <br>
-**그 사건이 일어났다...** 주토피아2를 보려고 그렇게 신나 있었는데... 결국 2주동안 거의 아무것도 못하고 수술까지 할 뻔... 사실 이 글도 거치대한 채로 작성하고 있음 <br>
+**그 사건이 일어났다...** 주토피아2를 보려고 그렇게 신나 있었는데... <br>
+결국 2주동안 거의 아무것도 못하고 수술까지 할 뻔... 사실 이 글도 거치대한 채로 작성하고 있음 <br>
 
 [![12월_노잼인생.jpg](https://i.postimg.cc/JzkrjKCr/12월_노잼인생.jpg)](https://postimg.cc/nXnfJ4Lg) <br>
 그리고 그렇게 한은 준비를 위한 노잼인생이 시작됐다 ... <br>
