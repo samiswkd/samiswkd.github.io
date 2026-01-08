@@ -54,7 +54,7 @@ date: 2025-12-27 00:08:53 +0900
 기본 개념서
 - ~~[교재: 김재호&김한솔 IFRS 중회 상 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3137&OrderColumn=Book_Pub_Date&OrderSort=desc)~~
 - ~~[교재: 김재호&김한솔 IFRS 중회 하 7판](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3138&OrderColumn=Book_Pub_Date&OrderSort=desc)~~
-- [강의: 김한솔 IFRS 중회, 2501](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&Goods_Idx=47503)
+- ~~[강의: 김한솔 IFRS 중회, 2501](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&Goods_Idx=47503)~~
 - ~~김재호 재무회계 요약~~
 - ~~김한솔 재무회계 가이드~~
 <br>
@@ -62,6 +62,7 @@ date: 2025-12-27 00:08:53 +0900
 연습서
 - ~~[교재: 김한솔 2026 공인회계사 2차 재무회계연습 중급회계편](https://www.uricpa.com/GContents/BooksMall/BuyBooks/Index.asp?BoardMode=Detail&Book_Idx=3318&OrderColumn=Book_Pub_Date&OrderSort=desc)~~
 - [강의: 김한솔 재무회계연습, 2503](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=48628)
+- [강의: 김한솔 유예잼회연습, 2510](https://www.uricpa.com/GContents/CPA/OnLecture/EachClass/Index.asp?BoardMode=Detail&LevelChk=&Goods_Idx=50943&Book_Idx=3318&Group_Idx=0&OrderColumn=Book_Pub_Date&OrderSort=desc&GotoPage=0&SearchColumn=&SearchValue=)
 <br>
 
 이외 서적들
