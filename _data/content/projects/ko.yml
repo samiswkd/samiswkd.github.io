@@ -26,7 +26,7 @@ page_data:
       color: "gray"
 
 
-    list:
+  list:
 
     # Y-FoRM
     - type: id_yform
@@ -106,7 +106,7 @@ page_data:
       project_name: "양식 참고용"
       project_excerpt: "추후 프로젝트 작성 시 양식을 참고하기 위해 남겨뒀습니다."
       img: ":project1_thumb.jpg"
-      img_title: "img title1"
+      img_title: "예시 사진"
       date: "2026-01-09"
       post: |
         # Examples
