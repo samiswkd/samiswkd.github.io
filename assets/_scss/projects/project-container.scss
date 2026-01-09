@@ -15,10 +15,11 @@
   --multipurpose-button-hover-color: var(--project-button-hover-color);
 }
 
+/* 이게 제목 폰트인듯? (원래 3.6, 700) */
 .project-heading-container h1 {
-  font-size: 3.6rem;
+  font-size: 2.5rem;
   line-height: 3.1rem;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .project-heading-container p {
@@ -95,9 +96,9 @@
 }
 
 .project-container .project-header > h2 {
-  font-weight: 200;
+  font-weight: 300;
   /* line-height: 1.25; */
-  font-size: 1.2rem; /* 썸네일 제목 사이즈 바꿈(원래 1.6) */
+  font-size: 1.6rem; /* 썸네일 제목 사이즈 바꿈(원래 1.6) */
 }
 
 .project-container .project-header > .meta-container {
