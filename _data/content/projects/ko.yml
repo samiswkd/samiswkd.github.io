@@ -32,7 +32,7 @@ page_data:
     - type: id_yform
       project_name: "SCM을 활용한 코리안 디스카운트 이벤트 분석과 CVaR 포트폴리오 리밸런싱"
       project_excerpt: "금융공학 및 리스크관리 학회 Y-FoRM에서 진행했던 프로젝트입니다. UCB 교환학생 시절 진행한 소논문에서 데이터셋 및 방법론의 변경을 통해 한층 더 발전시켰습니다."
-      img: "projectKDSCM_thumb.jpg"
+      img: ":projectKDSCM_thumb.jpg"
       date: "2025-04-11"
       post: |
         # 배경

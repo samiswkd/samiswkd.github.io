@@ -32,10 +32,10 @@
 
 .thumbnails > .image-holder {
   width: 40%;
-  max-width: 150%;
-  min-width: 200px;
+  max-width: 500%;
+  min-width: 300px;
   /* column view picture height */
-  min-height: 180px;
+  min-height: 300px;
   /* 프로젝트 썸네일 크기(기존 30, 100, 150, 120) 여기 바꿨었음 */
   border-radius: 10px;
   background-size: cover;
@@ -51,7 +51,7 @@
 
 .thumbnails > .excerpt-holder > p {
   font-weight: 300;
-  font-size: 1.2rem;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
+  font-size: 1.0rem;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
   /* excerpt text color */
   color: var(--thumbnail-excerpt-text-color);
 }
