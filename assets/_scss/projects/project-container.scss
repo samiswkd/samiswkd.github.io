@@ -15,7 +15,7 @@
   --multipurpose-button-hover-color: var(--project-button-hover-color);
 }
 
-/* 이게 제목 폰트인듯? (원래 3.6, 700) */
+/* 이건 젤 위에 사진에 들어가있는 "프로젝트" 이름 크기 */
 .project-heading-container h1 {
   font-size: 3.6rem;
   line-height: 4.0rem;
@@ -53,6 +53,7 @@
   display: block;
 }
 
+/* 이게 제목 폰트 https://sorto.me/docs/Web/CSS/font-weight 여기서 확인하고 넣으면 좋음 */
 .project-container .project-header > h1 {
   margin-top: 10px;
   font-weight: 600;
