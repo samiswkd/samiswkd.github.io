@@ -5,31 +5,109 @@
 page_data:
   main:
     header: "프로젝트"
-    info: "프로젝트 페이지 설명."
+    info: "지금까지 해왔던 프로젝트를 정리해놓았습니다."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "예"
+    - title: "와이폼"
+      type: id_yform
+      color: "#d12e2e"
+    - title: "여행"
+      type: id_travel
+      color: "#62b462"
+    - title: "교환학생"
+      type: id_ucb
+      color: "#2FD0ED"
+    - title: "양식 참고용"
       type: id_example
       color: "gray"
-    - title: "그림"
-      type: id_picture
-      color: "#62b462"
-    - title: "명언"
-      type: id_quote
-      color: "#2FD0ED"
 
-  list:
-    # example
+
+    list:
+
+    # Y-FoRM
+    - type: id_yform
+      project_name: "SCM을 활용한 코리안 디스카운트 이벤트 분석과 CVaR 포트폴리오 리밸런싱"
+      project_excerpt: "금융공학 및 리스크관리 학회 Y-FoRM에서 진행했던 프로젝트입니다. UCB 교환학생 시절 진행한 소논문에서 데이터셋 및 방법론의 변경을 통해 한층 더 발전시켰습니다."
+      img: "projectKDSCM_thumb.jpg"
+      date: "2025-04-11"
+      post: |
+        # 배경
+        교환학생 시절 혼자 작성했던 소논문 Effect of Korean Discount factors on Korean stock valuation을 발전시키고자 하였다.
+
+        추후 작성
+
+    # - type: id_yform
+    #   project_name: "SCM을 활용한 코리안 디스카운트 이벤트 분석과 CVaR 포트폴리오 리밸런싱"
+    #   project_excerpt: "금융공학 및 리스크관리 학회 Y-FoRM에서 진행했던 프로젝트입니다. UCB 교환학생 시절 진행한 소논문에서 데이터셋 및 방법론의 변경을 통해 한층 더 발전시켰습니다."
+    #   img: "projectKDSCM_thumb.jpg"
+    #   date: "2025-04-11"
+    #   post: |
+    #     # 배경
+
+    # - type: id_yform
+    #   project_name: "SCM을 활용한 코리안 디스카운트 이벤트 분석과 CVaR 포트폴리오 리밸런싱"
+    #   project_excerpt: "금융공학 및 리스크관리 학회 Y-FoRM에서 진행했던 프로젝트입니다. UCB 교환학생 시절 진행한 소논문에서 데이터셋 및 방법론의 변경을 통해 한층 더 발전시켰습니다."
+    #   img: "projectKDSCM_thumb.jpg"
+    #   date: "2025-04-11"
+    #   post: |
+    #     # 배경
+
+    # - type: id_yform
+    #   project_name: "SCM을 활용한 코리안 디스카운트 이벤트 분석과 CVaR 포트폴리오 리밸런싱"
+    #   project_excerpt: "금융공학 및 리스크관리 학회 Y-FoRM에서 진행했던 프로젝트입니다. UCB 교환학생 시절 진행한 소논문에서 데이터셋 및 방법론의 변경을 통해 한층 더 발전시켰습니다."
+    #   img: "projectKDSCM_thumb.jpg"
+    #   date: "2025-04-11"
+    #   post: |
+    #     # 배경
+
+        
+
+    # 여행
+    - type: id_travel
+      project_name: "샌디에고 여행"
+      project_excerpt: "샌디에고 여행에서 찍은 사진들을 정리해두었습니다."
+      img: ":project_SD_thumb.jpg"
+      date: "2024-05-03"
+      post: |
+        # 배경
+        두 번째 라스베가스 여행을 간 뒤, 교환학생의 끝이 얼마 안 남았다는 아쉬움에 짬을 내 현민이랑 샌디에고 여행을 계획했다.
+
+        추후 작성
+
+
+    # UCB 교환학생
+    - type: id_ucb
+      project_name: "코리안 디스카운트가 한국 주식시장 밸류에이션에 미치는 영향"
+      project_excerpt: "UC Berkeley에서 진행했던 ECON191 Topics in Economic Research에서 진행했던 소논문의 요약입니다."
+      img: ":project_ucbKD_thumb.jpg"
+      #img_title: "img title3"
+      date: "2024-05-04"
+      post: |
+        논문명: "Effect of Korean Discount factors on Korean stock valuation"
+
+        # 배경
+        추후 작성
+
+        # 후기
+        본 프로젝트는 서울대학교 김현민군의 도움을 많이많이 받았습니다. Thx Min~
+      
+
+
+
+
+
+
+    # 양식 참고용
     - type: id_example
-      project_name: "예제 프로젝트"
-      project_excerpt: "예"
+      project_name: "양식 참고용"
+      project_excerpt: "추후 프로젝트 작성 시 양식을 참고하기 위해 남겨뒀습니다."
       img: ":project1_thumb.jpg"
       img_title: "img title1"
-      date: "2021-03-13"
+      date: "2026-01-09"
       post: |
         # Examples
 
@@ -170,63 +248,9 @@ page_data:
         for i in range(5, 10):
           print(i)
         ```
+      
 
-    # picture
-    - type: id_picture
-      project_name: "예제 프로젝트"
-      project_excerpt: "그림"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
-      post: |
-        # Title
-        This is project content.
+        
 
-        ![Image](:project2_thumb.jpg)
 
-    # quote
-    - type: id_quote
-      project_name: "예제 프로젝트"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
-      post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-    - type: id_quote
-      project_name: "예제 프로젝트"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "예제 프로젝트"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "예제 프로젝트"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.
+        
