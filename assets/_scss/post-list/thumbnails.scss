@@ -51,7 +51,7 @@
 
 .thumbnails > .excerpt-holder > p {
   font-weight: 300;
-  font-size: 0.9rem !important;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
+  font-size: 1.5rem;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
   /* excerpt text color */
   color: var(--thumbnail-excerpt-text-color);
 }
@@ -76,4 +76,17 @@
   .thumbnails > .excerpt-holder {
     width: 100%;
   }
+}
+.thumbnails > .image-holder {
+  width: 38%;        /* 30% -> 38% */
+  min-width: 220px;  /* 150px -> 220px */
+  min-height: 170px; /* 120px -> 170px */
+}
+
+.thumbnails > .image-holder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
 }
