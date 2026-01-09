@@ -51,7 +51,7 @@
 
 .thumbnails > .excerpt-holder > p {
   font-weight: 300;
-  font-size: 0.9rem;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
+  font-size: 0.9rem !important;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
   /* excerpt text color */
   color: var(--thumbnail-excerpt-text-color);
 }
