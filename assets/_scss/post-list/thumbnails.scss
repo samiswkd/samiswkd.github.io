@@ -31,11 +31,11 @@
 }
 
 .thumbnails > .image-holder {
-  width: 40%;
-  max-width: 500%;
-  min-width: 300px;
+  width: 30%;
+  max-width: 100%;
+  min-width: 150px;
   /* column view picture height */
-  min-height: 300px;
+  min-height: 120px;
   /* 프로젝트 썸네일 크기(기존 30, 100, 150, 120) 여기 바꿨었음 */
   border-radius: 10px;
   background-size: cover;
@@ -51,7 +51,7 @@
 
 .thumbnails > .excerpt-holder > p {
   font-weight: 300;
-  font-size: 1.0rem;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
+  font-size: 0.9rem;     /* 프로젝트 제목 폰트 크기(기존 1.5) 여기 바꿨었음 */
   /* excerpt text color */
   color: var(--thumbnail-excerpt-text-color);
 }
