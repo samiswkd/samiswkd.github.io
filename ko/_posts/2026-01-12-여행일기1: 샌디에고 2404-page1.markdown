@@ -61,7 +61,7 @@ search_engine_exclude: true
 
 # 2일차 
 
-[![날이 좋음.jpg](https://i.postimg.cc/tJtBvdcL/nal-i-joh-eum.jpg)](https://postimg.cc/JH03GXMq)
+[![날이 좋음.jpg](https://i.postimg.cc/tJtBvdcL/nal-i-joh-eum.jpg)](https://postimg.cc/JH03GXMq) <br>
 이건 그냥 길 걷다가 뭔가 사진을 찍고 싶어서...
 
 <!-- outline-end -->
