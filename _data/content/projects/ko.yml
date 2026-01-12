@@ -15,8 +15,8 @@ page_data:
     - title: "와이폼"
       type: id_yform
       color: "#d12e2e"
-    - title: "여행"
-      type: id_travel
+    - title: "공모전"
+      type: id_contest
       color: "#62b462"
     - title: "교환학생"
       type: id_ucb
@@ -77,14 +77,14 @@ page_data:
         
 
     # 여행
-    - type: id_travel
-      project_name: "샌디에고 여행"
-      project_excerpt: "샌디에고 여행에서 찍은 사진들을 정리해두었습니다."
-      img: ":project_SD_thumb.jpg"
-      date: "2024-05-03"
+    - type: id_contest
+      project_name: "한국은행 통화경책 경시대회"
+      project_excerpt: "2025년 한국은행 통화정책 경시대회에 참여해 지역예선 동상을 받았습니다. 이에 대한 전반적인 소감 및 내용을 정리하고자 합니다."
+      img: ":project_BOK.JPG"
+      date: "2025-07-15"
       post: |
-        # 배경
-        두 번째 라스베가스 여행을 간 뒤, 교환학생의 끝이 얼마 안 남았다는 아쉬움에 짬을 내 현민이랑 샌디에고 여행을 계획했다.
+        # 소개
+        한국은행 통화정책경시대회는 대학생들에게 통화정책 결정 과정의 모의체험 기회를 제공하여 한국은행의 정책과 업무에 대한 이해를 제고하기 위해 한국은행에서 진행하는 공모전이다. 
 
         추후 작성
 
