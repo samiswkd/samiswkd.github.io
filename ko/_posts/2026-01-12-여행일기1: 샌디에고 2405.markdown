@@ -1,0 +1,179 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ko_7
+title: "여행일기1: 샌디에고 2405"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: "이승훈"
+# multiple category is not supported
+category: auto generated
+# multiple tag entries are possible
+tags: [jekyll, example post]
+# thumbnail image for post
+img: ":taco.jpg"
+# disable comments on this page
+comments_disable: false
+
+# publish date
+date: 2026-01-12 20:10:53 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+on_site_search_exclude: true
+# exclude from search engines
+search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+# published: false
+---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+<!-- outline-start -->
+
+가끔 공부하다 너무 심심해서.. 기억나는대로 여행일기를 써봐야겟다
+
+# 여행 정보
+
+240502 ~ 240504 (2박 3일)
+
+# 여행의 시작
+
+ 두 번째 라스베가스 여행 이전에, 여행 직후 바로 샌디에고로 갈 사람을 구했는데(정말로 라스베가스 여행 도착날인가 도착 다음날 출발하는 비행기였음) 다행히 현민이가 시험공부도 거의 다 끝났다고 해서 둘이 여행을 가게 되었다. 라스베가스도 같이 여행을 갔기 때문에, 편하게 계속 다니면서 샌디에고로 여행을 떠났다. 급하게 가던 길에 기숙사 1층 로비에서 저렴한 샌디에고 버스 패스가 있다고 알려줬는데 진짜 요긴하게 써서 고마웠다. <br>
+
+ 아 생각해보니 [이런 계획도 짰었다.](https://docs.google.com/document/d/1EU5fiEdklx7avuzHL9e9GSXIRJL2faafPbqMk49-mco/edit?usp=sharing) 구글 독스로 여행 계획 짜는게 기록도 남고.. 은근히 좋은 것 같다. <br>
+
+# 1일차
+
+아마 오후~저녁 시간대에 비행기를 타서 숙소에 도착하니깐 거의 밤이었던 것 같다. 먼저 저녁을 근처 마트에서 간편식같은 걸 사고 숙소로 들어갔는데... <br>
+
+[![짱 싼 방.jpg](https://i.postimg.cc/XJNSgJXk/jjang-ssan-bang.jpg)](https://postimg.cc/xkZ4f9vX) <br>
+
+숙소가 진짜 완전 작은 원룸이었다. 1박에 20~30불 정도로 짱 싼 방이었는데, 정말 잠을 위한 숙소였다. 근데 벌레도 없고 은근히 깨끗하고.. 뭔가 아늑한게 생각보다 좋았다. 공용 욕실인데 따뜻한 물이 안 나오는건 좀 별로였다. <br>
+
+그래서 아무튼 잠은 잘 잤다. <Br>
+
+# 2일차 
+
+꼭 가보고 싶었던 곳이 있었다. Midway Museum 이라는 곳인데, 실제로 사용하던 항공모함을 박물관으로 개조해놓은 곳이었다. 천조국의 위엄을 한 번 느껴보고 싶었다. 
+
+[![항모_시작2.jpg](https://i.postimg.cc/Xqdy4LKr/항모_시작2.jpg)](https://postimg.cc/CnMK4jQ0) <br>
+날이 좀 안 좋은게 아쉬웠지만, 도착하자마자 짱 큰 항공모함에 압도되고 말았다. <br>
+
+[![항모_전투기.jpg](https://i.postimg.cc/Znpy4HPy/항모_전투기.jpg)](https://postimg.cc/XBNvgwzV) <br>
+내부는 또 얼마나 큰지, 항공모함이 현역이었던 시절인 2차 세계대전 때 사용하던 전투기가 비치되어 있었다. 
+
+[![탑건.jpg](https://i.postimg.cc/d1zTbpCv/탑건.jpg)](https://postimg.cc/vgtB9PXS) <br>
+당시에 탑건을 봤어서 조금 신난 이승훈의 모습 <br>
+
+[![항모_비행대대.jpg](https://i.postimg.cc/Fz3JNpbK/항모_비행대대.jpg)](https://postimg.cc/Lg4sVzbd) <br>
+대대의 편성이나 규모에 따라 당연히 다르겠지만, 우리나라는 큰 부대가 보통 3개 이상 비행대대를 운영하는데, 운영했던 비행대대를 보니 정말 얼마나 규모가 컸던 지를 체감할 수 있다. <br>
+
+[![항모_마네킹.jpg](https://i.postimg.cc/Hxf7qRMn/항모_마네킹.jpg)](https://postimg.cc/34FRpLnQ) <br>
+이런 마네킹도 전시돼있었다. 미국 간이 BX의 모습.. 역시 안 좋아 보인다 <br>
+
+[![항모_긱사.jpg](https://i.postimg.cc/k4kt0zSB/항모_긱사.jpg)](https://postimg.cc/2b76vH2D) <br>
+배멀미 있는 사람이 저 좁은 곳에서 자면 진짜 죽겠다 <br>
+
+[![항모_빨모.jpg](https://i.postimg.cc/Fz3JNpbR/항모_빨모.jpg)](https://postimg.cc/FkFKxjB5) <br>
+군필 ptsd 빨모.. <br>
+
+[![관제사.jpg](https://i.postimg.cc/hGtxT9gh/관제사.jpg)](https://postimg.cc/21gVfL1f) <br>
+관제실도 있어서 한번 체험해봤다 <br>
+
+[![항모위.jpg](https://i.postimg.cc/zvKR87wF/항모위.jpg)](https://postimg.cc/n9VL1vPX) <br>
+항공모함 위를 처음 봤는데, 짱 넓고 그새 날이 개서 정말 예뻤다. 보다 최신 전투기들이 있었고, 아무튼 뭔가 멋있었다. <br>
+
+[![필슝.jpg](https://i.ibb.co/v4zNfyTh/image.jpg)](https://ibb.co/fd03Z6y9) <br>
+그렇게 Midway는 끗~ 필슝~ <br>
+
+[![브이~ .jpg](https://i.ibb.co/vvj0WKWq/image.jpg)](https://ibb.co/2YkGrfrh) <br>
+유명한 키스 동상도 가봤다 ✌️~ <br>
+
+[![날이 좋음.jpg](https://i.postimg.cc/tJtBvdcL/nal-i-joh-eum.jpg)](https://postimg.cc/JH03GXMq) <br>
+이건 그냥 길 걷다가 뭔가 사진을 찍고 싶어서... <br>
+
+[![감자탕간판.jpg](https://i.postimg.cc/yNpRPkYV/감자탕간판.jpg)](https://postimg.cc/hJxh44dw) <br>
+점심은 한식이 땡겨 버스를 타면서까지 감자탕집으로 갔다 <br>
+
+[![감자탕.jpg](https://i.postimg.cc/43xtVzZy/감자탕.jpg)](https://postimg.cc/QFvHrKFZ) <br>
+오랜만에 먹어서 진짜 너무 마싯었다 <br>
+
+[![ucsd도서관.jpg](https://i.postimg.cc/VNkMnj1P/ucsd도서관.jpg)](https://postimg.cc/K1CRy3R0) <br>
+점심을 먹고나선 UCSD로 갔다. 뭔가 UC 캠퍼스들을 모두 도장깨기하고 싶다는 생각에 가게 됐는데, 생각보다 나쁘지 않은 목표였던 듯..? 사진은 UCSD의 상징인 중앙도서관 <br>
+
+[![엑스칼리버.jpg](https://i.postimg.cc/pT9F1Rmt/엑스칼리버.jpg)](https://postimg.cc/8JSc78dy) <br>
+짠~ 짱이죠~ <br>
+
+[![박힌집.jpg](https://i.postimg.cc/tT1xmpYz/박힌집.jpg)](https://postimg.cc/ftNyV473) <br>
+이것도 UCSD 상징물 중에 하나였는데, 어떻게 지은지 모르겠다. 글을 보시고 계시는 mbti S인 분이 있다면 알려주세요 <br>
+
+[![타코스탠드1.jpg](https://i.ibb.co/GfPyq2Tn/taco.jpg)](https://ibb.co/qL1Kvs57) <br>
+저녁은 타코스탠드라는 타코 맛집에서 먹었는데, 진짜 너무너무너무 맛있었음!!!!!! 사실 샌디에고는 히스패닉이 많아 타코로 유명한 지역인데, 살면서 먹은 타코 중에 가장 맛있는 곳이었음. 샌디에 간다면 꼭 타스를 갈 것. 아무튼 그래서 다음날 또 가기로 결정함. <br>
+
+저녁을 먹고 나선 근처 해변가? 같은 곳에 갔는데, 노을이 너무 예뻤다. 그럼 잠시 감상 타임~ <br>
+
+[![비둘기.jpg](https://i.postimg.cc/ydJZrskP/비둘기.jpg)](https://postimg.cc/Vr8vJy9r) <br>
+
+[![모르는사람.jpg](https://i.postimg.cc/V6SCHmdB/모르는사람.jpg)](https://postimg.cc/Kk2j1X7R) <br>
+
+[![해변.jpg](https://i.postimg.cc/Xqdy4LKc/해변.jpg)](https://postimg.cc/1VRzKpjf) <br>
+
+[![해변2.jpg](https://i.postimg.cc/MHVjq50t/해변2.jpg)](https://postimg.cc/K3cY5nHg) <br>
+
+[![해변3.jpg](https://i.postimg.cc/J0ZBMx3x/해변3.jpg)](https://postimg.cc/tnRgzhMn) <br>
+
+[![조약돌.jpg](https://i.postimg.cc/cHV8p23q/조약돌.jpg)](https://postimg.cc/cgBHYDTT) <br>
+
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1153923038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="이상한새"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> <br>
+뭔가 처음 보는 새들이 엄청 많았다. <br>
+
+그렇게 하루가 끝나고 피곤한 몸을 이끌고 아늑한 숙소로 돌아가 맥주를 마시며 하루를 마쳤다. 커어어 <br>
+
+# 3일차
+
+마지막 날에는 날이 그리 좋지 않았다. 그래서 실내에서 돌아다니기로 했고, 미술관에 가기로 했다. 
+
+[![날이_안좋음.jpg](https://i.postimg.cc/V6SCHmdt/날이_안좋음.jpg)](https://postimg.cc/WFvzdRmp) <br>
+날이 정말 안 좋았음.. <br>
+
+[![꽃.jpg](https://i.postimg.cc/tgv65YC6/꽃.jpg)](https://postimg.cc/7C7bPPzP) <br>
+옆에 정원도 있어 꽃들이 많았다. 근데 예쁜지 잘 모르겠다 <br>
+
+[![어디선가본그림.jpg](https://i.postimg.cc/50HCkb6K/어디선가본그림.jpg)](https://postimg.cc/wypM1K5D) <br>
+미술관에선 어디선가 봤던 그림이 있었다. 뭔진 아직도 모르겠음... <br>
+
+[![이쁜건물.jpg](https://i.postimg.cc/sXtZkqh8/이쁜건물.jpg)](https://postimg.cc/vgtB9PXL) <br>
+작품들보다도 뭔가 미술관을 둘러싼 일대 자체가 신기했다. 뭔가 미국스럽지 않은 건물들이 많았다. <br>
+
+[![또코.jpg](https://i.postimg.cc/qRt3Z4z3/또코.jpg)](https://postimg.cc/Vr8vJy9f) <br>
+반쯤 아쉬운 미술관 투어를 마치고 마지막 점심은 결국 타코스탠드를 또 가서 먹었다. 다시먹어도 맛있는 맛. 미국에 다시 갈 일이 있다면 재방문하고 싶다. <br>
+
+[![끗.jpg](https://i.postimg.cc/mrp9wt2y/끗.jpg)](https://postimg.cc/mcMhZZ9P) <br>
+그렇게 샌디에고의 여정은 끗~ <br>
+
+생각보다 사진이 많아서 앞으로도 작성하는데 시간이 오래 걸린다... <br>
+
+
+# 다음 포스트로 혜림이 원하는 것은?
+1. 라스베가스
+2. LA
+3. 버클리 학교생활
+4. 뉴욕
+5. 기타(직접 작성)
+
+댓글로 정답 공유 바랍니다~
+
+<!-- outline-end -->
