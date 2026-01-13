@@ -45,7 +45,7 @@ search_engine_exclude: true
 
 가끔 공부하다 너무 심심해서.. 기억나는대로 여행일기를 써봐야겟다
 
-# 여행 정보
+# 여행 일정
 
 240502 ~ 240504 (2박 3일)
 
@@ -82,7 +82,7 @@ search_engine_exclude: true
 대대의 편성이나 규모에 따라 당연히 다르겠지만, 우리나라는 큰 부대가 보통 3개 이상 비행대대를 운영하는데, 운영했던 비행대대를 보니 정말 얼마나 규모가 컸던 지를 체감할 수 있다. <br>
 
 [![항모_마네킹.jpg](https://i.postimg.cc/Hxf7qRMn/항모_마네킹.jpg)](https://postimg.cc/34FRpLnQ) <br>
-이런 마네킹도 전시돼있었다. 미국 간이 BX의 모습.. 역시 안 좋아 보인다 <br>
+이런 마네킹도 전시돼있었다. 미국의 간이 BX.. 역시 안 좋아 보인다 <br>
 
 [![항모_긱사.jpg](https://i.postimg.cc/k4kt0zSB/항모_긱사.jpg)](https://postimg.cc/2b76vH2D) <br>
 배멀미 있는 사람이 저 좁은 곳에서 자면 진짜 죽겠다 <br>
@@ -118,10 +118,10 @@ search_engine_exclude: true
 짠~ 짱이죠~ <br>
 
 [![박힌집.jpg](https://i.postimg.cc/tT1xmpYz/박힌집.jpg)](https://postimg.cc/ftNyV473) <br>
-이것도 UCSD 상징물 중에 하나였는데, 어떻게 지은지 모르겠다. 글을 보시고 계시는 mbti S인 분이 있다면 알려주세요 <br>
+이것도 UCSD 상징물 중에 하나였는데, 어떻게 지은지 모르겠다. 글을 보시고 계시는 분 중에 mbti S인 분이 있다면 알려주세요 <br>
 
 [![타코스탠드1.jpg](https://i.ibb.co/GfPyq2Tn/taco.jpg)](https://ibb.co/qL1Kvs57) <br>
-저녁은 타코스탠드라는 타코 맛집에서 먹었는데, 진짜 너무너무너무 맛있었음!!!!!! 사실 샌디에고는 히스패닉이 많아 타코로 유명한 지역인데, 살면서 먹은 타코 중에 가장 맛있는 곳이었음. 샌디에 간다면 꼭 타스를 갈 것. 아무튼 그래서 다음날 또 가기로 결정함. <br>
+저녁은 타코스탠드라는 타코 맛집에서 먹었는데, 진짜 너무너무너무 맛있었음!!! 사실 샌디에고는 히스패닉이 많아 타코로 유명한 지역인데, 살면서 먹은 타코 중에 가장 맛있는 곳이었음. 샌디에 간다면 꼭 타스를 갈 것. 아무튼 그래서 다음날 또 가기로 결정함. <br>
 
 저녁을 먹고 나선 근처 해변가? 같은 곳에 갔는데, 노을이 너무 예뻤다. 그럼 잠시 감상 타임~ <br>
 
@@ -137,8 +137,8 @@ search_engine_exclude: true
 
 [![조약돌.jpg](https://i.postimg.cc/cHV8p23q/조약돌.jpg)](https://postimg.cc/cgBHYDTT) <br>
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1153923038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="이상한새"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> <br>
-뭔가 처음 보는 새들이 엄청 많았다. <br>
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1153923038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="이상한새"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> 
+뭔가 처음 보는 새들도 엄청 많았다. <br>
 
 그렇게 하루가 끝나고 피곤한 몸을 이끌고 아늑한 숙소로 돌아가 맥주를 마시며 하루를 마쳤다. 커어어 <br>
 
@@ -159,21 +159,23 @@ search_engine_exclude: true
 작품들보다도 뭔가 미술관을 둘러싼 일대 자체가 신기했다. 뭔가 미국스럽지 않은 건물들이 많았다. <br>
 
 [![또코.jpg](https://i.postimg.cc/qRt3Z4z3/또코.jpg)](https://postimg.cc/Vr8vJy9f) <br>
-반쯤 아쉬운 미술관 투어를 마치고 마지막 점심은 결국 타코스탠드를 또 가서 먹었다. 다시먹어도 맛있는 맛. 미국에 다시 갈 일이 있다면 재방문하고 싶다. <br>
+반쯤 아쉬운 미술관 투어를 마치고 마지막 점심은 결국 타코스탠드를 또 가서 먹었다. 다시먹어도 맛있는 맛. <br>
+미국에 다시 갈 일이 있다면 재방문하고 싶다. <br>
 
 [![끗.jpg](https://i.postimg.cc/mrp9wt2y/끗.jpg)](https://postimg.cc/mcMhZZ9P) <br>
 그렇게 샌디에고의 여정은 끗~ <br>
 
 생각보다 사진이 많아서 앞으로도 작성하는데 시간이 오래 걸린다... <br>
 
+마지막으로.. <br>
 
-# 다음 포스트로 혜림이 원하는 것은?
+# 다음 포스트 여행일기 수요조사 받습니다~
 1. 라스베가스
 2. LA
 3. 버클리 학교생활
 4. 뉴욕
 5. 기타(직접 작성)
 
-댓글로 정답 공유 바랍니다~
+댓글이나 DM으로 알려주세요~
 
 <!-- outline-end -->
