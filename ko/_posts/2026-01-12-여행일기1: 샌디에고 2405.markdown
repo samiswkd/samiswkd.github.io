@@ -176,6 +176,6 @@ search_engine_exclude: true
 4. 뉴욕
 5. 기타(직접 작성)
 
-정답은 댓글이나 DM으로 알려줘요~
+정답은 댓글로 알려줘요~
 
 <!-- outline-end -->
