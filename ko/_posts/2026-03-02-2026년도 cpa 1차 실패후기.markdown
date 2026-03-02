@@ -1,0 +1,133 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ko_9
+title: "2026년도 cpa 1차 실패후기"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: "이승훈"
+# multiple category is not supported
+category: auto generated
+# multiple tag entries are possible
+tags: [jekyll, example post]
+# thumbnail image for post
+img: ":kicpa.webp"
+# disable comments on this page
+comments_disable: false
+
+# publish date
+date: 2026-03-02 23:58:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+<!-- outline-start -->
+
+#### 26년도 KICPA 1차 결과
+- 재무관리: -10(찍맞 포함 14)/24
+- 경영학: -4/8
+- 중급회계: -15(찍맞 포함 16)/25
+
+<br>
+
+### 최종 결과: 불합격
+
+<br>
+
+#### 재무관리 복기 및 피드백
+1. 말문제가 너무 약하다.. 개념이 좀 약한듯
+2. 사실 한은은 말문제가 거의 안 나오는거 같긴 하지만, 그래도 이해 때문에 틀린 문제들을 볼 필요 있음
+3. 가령 녹색 편지, 비율분석같은 건 지엽이니깐 후순위로 나두지만 주식 가치평가, 경제성평가는 순수하게 내 개념 & 실력 부족해서 틀린거니깐 집중
+<br>
+틀린 문제들의 선지 및 유형들을 정리해보자면... <br>
+
+#11 MM이론 관련 <br>
+- MM61의 배당이론에 따르면 배당정책은 기업가치에 영향미치지 않는다 
+- 안정배당이론에 따르면 기업 순이익이 급증해도 배당성향은 일정하게 유지돈다 
+- 자본소득세율을 배당소득세율보다 낮은 상황에서는 고배당 주가가 저배당 주가보다 더 낮게 형성될 수 있다 
+- 배당을 많이 지급하면 경영자의 특권적 소비와 주주의 경여자 감시에서 발생하는 대리인 비용이 줄어들어 기업가치를 높일 수 있다 
+OXOO
+<br>
+
+#12 MnA <br>
+- 인수기업이 피인수기업에 인수대가를 지급할 때, 주식으로 지급하는 것이 현금으로 지급하는 것보다 유리하다 
+- 녹색편지(green mail)는 인수를 시도하는 기업이 피인수기업의 경영자나 대주주에게 프리미엄이 붙은 높은 가격으로 주식을 되팔아 이익을 얻는 것과 관련된다 
+XO
+<br>
+
+#15 경제성평가 <br>
+- 상품을 외상으로 매입한 경우 NWC가 증가하므로 현금흐름에서 상품매입 금액만큼 차감한다 
+- 이자비용과 배당금은 현금유출에 포함시키지 않는다 
+XO
+<br>
+
+#17 비율분석 <br>
+- 부채비율이 증가할 때 ROE는 상승한다
+- 자기자본비율이 증가할 때 ROA는 하락한다
+- 매출액 순이익률이 증가할 때 ROE는 상승한다
+- 총자산회전율의 증가는 ROE에 영향을 주지 않는다
+OXOO
+<br>
+
+#20 주식 가치평가 <br>
+- 항상성장모형에 따르면 기대수익률은 배당수익률과 배당성장률의 합으로 설명된다
+- 성장기업 주가는 성장기회가 없다 가정했을 때 주가에 NPVGO를 합한 금액으로 설명된다
+- 요구수익률이 ROE보다 높을 때 성장기회의 순현재가치는 양(+)의 값을 가진다
+- NPVGO가 음(-)의 값을 가지는 경우 배당을 줄이고 유보이익을 증가시키면 현재 주가가 상승한다
+OOXX
+<br>
+
+#27 채권 <br>
+- 수의상환채는 일반사채보다 가격이 높다
+- 상환청구권부사채는 일반사채보다 가격이 낮다
+- 신용등급 AA인 채권과 BBB인 채권 간 수익률 차이가 감소할 것으로 예상될 때, AA등급 채권을 매도하고 BBB등급 채권을 매입하는 것이 유리하다
+XXO
+<br>
+
+**이외 틀리거나 부족했던 문제들** <br>
+
+1. 만기수익률, 액면이자율, 채권가격(#25)의 관계에 대한 문제는 항상 나오고 항상 틀림. 암기해야 하는 게 뭔지 아는데도 계속 안 외우는걱ㄴ 성실함이 부족한걸까 그냥 멍청한걸까
+2. 옵션 내재가치/시간가치(#30)도 개념 많이 까먹은듯: 시간가치는 언제나 음의 값 가능하고 콜-풋 패러티에 배당응ㄴ 포함 X?
+3. 콜옵션 가치 산정방법(#31, 가중평균무위험수익률법?)도 계속 나오는데 틀림. 이것도 복습 필요
+4. #32 스왑도 틀렸는데 이건 솔직히 그냥 틀리라고 낸 문제라.. 이런걸 봤을 때 스킵할 수 있는지! 그게 실력이다
+
+<br><br><br>
+
+#### 중급회계 복기 및 피드백
+
+1. 재고자산은 확실히 부족하다. 매출원가 계산(#3)이나 단위원가 결정(#2)은 아예 손도 못 댈 정도로 개념이 부족한 상태
+2. 차입원가, 유형자산은 낫밷
+3. 금융자산도 다 까먹었다. 연습서 들어가서 제대로 복습할 필요가 있음. 아니 진짜 접근할 수 있는 문제가 없었음..
+4. 전환사채, 종업원급여, 주식기준보상, 주당이익, 리스, 법인세는 진짜 기본서 들은지 몇 주도 안 됐는데 다 까먹음. 금자는 몇 개 기억날 정도로 까먹었다면 이건 순수하게 다 까먹어서 접근도 못함. 빨리 연습서 진도 나가서 복습해야 됨
+5. #17 유형자산 정부보조금에서 자산차감법일 때 처분하면 정부보조금도 사라지는건가? 즉 순액이랑 처분액이랑 비교하는겨? 그러면 이연수익법은 어차피 수익이랑 유형자산이랑 따로 노니깐 상각만시키고 상각한 장부가랑 처분가 비교하면 되는거?? 정답이긴해서 맞는거 같은데 확실하지 않음 
+
+
+<br><br><br>
+
+이대로면 한국은행이 아니라 동네 구멍가게 회계도 못 봐줄 지경임... <br>
+
+너무 많이 틀리고 공부 의욕도 떨어지지만.. 그럼에도  <br>
+
+[The Show Must Go On...](https://m.blog.naver.com/seihwanny/189237810)
+
+<!-- outline-end -->
