@@ -1,26 +1,26 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_en_test_1
-title: "Analysis Note"
+lng_pair: id_ko_10
+title: "깃허브 수정사항 반영 터미널 코드"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: "Sam Lee"
+author: "이승훈"
 # multiple category is not supported
 category: auto generated
 # multiple tag entries are possible
-tags: [jekyll, sample]
+tags: [jekyll, example post]
 # thumbnail image for post
-img: "/assets/img/posts/ECA.jpg"
+img: ":kicpa.webp"
 # disable comments on this page
 comments_disable: false
 
 # publish date
-date: 2026-09-30 15:20:03 +0900
+date: 2026-09-30 15:30:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2021-11-16 20:21:03 +0900
+#meta_modify_date: 2021-08-10 11:32:53 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -43,14 +43,19 @@ date: 2026-09-30 15:20:03 +0900
 
 <!-- outline-start -->
 
-I've started making some summary notes about Analysis course(by Professor 최영필). 
-<br>
-Feel free to come and look at my materials!
-<br>
-[This is the overleaf link I'm working on](https://www.overleaf.com/read/rycrmkqtsjmj#0d22f2)
-<br>
+### Step 1. Stage your modified files:
 
+git status
+git add .
+
+
+### Step 2.Commit the staged changes:
+
+git commit -m "변경사항 이름"
+
+
+### Step 3.Push to the remote repository:
+
+git push
 
 <!-- outline-end -->
-
-
