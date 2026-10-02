@@ -49,14 +49,13 @@ Feel free to come and look at my materials!
 <br>
 As a side note, the notes are listed in chronological order.
 <br>
-[Intro To Optimization Theory for DataScience(데이터사이언스를위한최적화개론, STAT4123)](/Users/sam/samiswkd.github.io/assets/pdf/IntroToOpt_Yonsei_26S.pdf)
+[Intro To Optimization Theory for DataScience(데이터사이언스를위한최적화개론, STAT4123)](/assets/pdf/IntroToOpt_Yonsei_26S.pdf)
 <br>
-[Linear Algebra(선형대수학, STAT2123)](/Users/sam/samiswkd.github.io/assets/pdf/LA_Yonsei_26S.pdf)
+[Linear Algebra(선형대수학, STAT2123)](/assets/pdf/LA_Yonsei_26S.pdf)
 <br>
-[Mathematical Statistics(수리통계학(2), STAT3109)](/Users/sam/samiswkd.github.io/assets/pdf/MathStat2_Yonsei_25F.pdf)
+[Mathematical Statistics(수리통계학(2), STAT3109)](/assets/pdf/MathStat2_Yonsei_25F.pdf)
 <br>
-[Time Series Analysis(시계열분석, STAT3110)](/Users/sam/samiswkd.github.io/assets/pdf/TimeseriesAnalysis_Yonsei_25F.pdf)
-<br>
+[Time Series Analysis(시계열분석, STAT3110)](/assets/pdf/TimeseriesAnalysis_Yonsei_25F.pdf)
 
 
 <!-- outline-end -->
