@@ -41,16 +41,16 @@ img: ":about.jpg"
 ## Employment
 
 - Undergraduate Student @ Yonsei University
-- Aspiring for BOK (2027 Plz)
+- Aspiring for any jobs paying more than Minimum wage
 
 ## Education
 
-- Yonsei University, Seoul, Republic of Korea (Mar 2020 - Present)
+- Yonsei University, Seoul, Republic of Korea (Mar 2020 - Feb 2027(Exp.))
     - Major at Business
     - Major at Economics (Double major)
-    - Minor at Applied Statistics
+    - Minor at Applied Statistics (Double major)(Exp.)
 - University of California, Berkeley, California, United States (Jan 2024 - May 2024)
-    - Exchange Abroad Program
+    - Exchange Abroad Program, 2024S
     - Majored for Economics
 - Sehwa High School, Seoul, Republic of Korea (Mar 2016 - Fen 2019)
 - British International School, Ho Chi Minh, Vietnam (Aug 2009 - Dec 2011)
@@ -58,9 +58,9 @@ img: ":about.jpg"
 
 ## Academic Interests
 
-- **Economics**: Monetary economics, Information economics
+- **Economics**: Monetary economics, Information economics, Development economics 
 - **Business**: Valuation theory, Executive Compensation 
-- **Food**: What kind of person loves Hawaiian Pizza?
+- **Food**: What is a healthy and tasty food?
 
 ## Programming Languages
 
