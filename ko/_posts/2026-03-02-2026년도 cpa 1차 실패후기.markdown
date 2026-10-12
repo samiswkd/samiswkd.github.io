@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_ko_9
-title: "2026년도 cpa 1차 실패수기"
+title: "2026년도 cpa 1차 후기"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -42,6 +42,8 @@ date: 2026-03-02 23:58:00 +0900
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 <!-- outline-start -->
+
+사실 두 달 공부했다.
 
 #### 26년도 KICPA 1차 결과
 - 재무관리: -10(찍맞 포함 14)/24
