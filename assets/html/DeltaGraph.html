@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Option Price Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; transition: background 0.5s; }
+        input, button { font-size: 16px; padding: 10px; margin-top: 10px; }
+        .error { display: none; position: fixed; width: 100%; height: 100%; background: red; color: black; font-size: 50px; text-align: center; padding-top: 20%; font-weight: bold; }
+        .chart-container { width: 45%; display: inline-block; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Option Pricing Visualization</h1>
+    
+    <p>Find option tickers here: <a href="https://finance.yahoo.com/options/" target="_blank">Yahoo Finance Options</a></p>
+
+    <label for="ticker">Enter Option Ticker:</label>
+    <input type="text" id="ticker" placeholder="AAPL230616C145">
+    <button onclick="fetchOptionData()">Submit</button>
+    <p>Example: <b>AAPL230616C145</b></p>
+
+    <div id="error-message" class="error">WRONG TICKER !!! KEEP THE RIGHT FORMAT.</div>
+
+    <div class="chart-container"><canvas id="callLongChart"></canvas></div>
+    <div class="chart-container"><canvas id="callShortChart"></canvas></div>
+    <div class="chart-container"><canvas id="putLongChart"></canvas></div>
+    <div class="chart-container"><canvas id="putShortChart"></canvas></div>
+
+    <script>
+        async function fetchOptionData() {
+            const ticker = document.getElementById('ticker').value;
+            const errorMessage = document.getElementById('error-message');
+
+            // Validate Ticker Format
+            const tickerPattern = /^[A-Z]{1,5}\d{6}[CP]\d+$/;
+            if (!tickerPattern.test(ticker)) {
+                document.body.style.background = "red";
+                errorMessage.style.display = "block";
+                return;
+            } else {
+                document.body.style.background = "white";
+                errorMessage.style.display = "none";
+            }
+
+            // Fetch Data from Flask API
+            try {
+                const response = await fetch(`/get-option-data?ticker=${ticker}`);
+                const data = await response.json();
+
+                if (data.error) {
+                    document.body.style.background = "red";
+                    errorMessage.style.display = "block";
+                    return;
+                }
+
+                drawGraph(data);
+            } catch (error) {
+                console.error("Error fetching data:", error);
+                document.body.style.background = "red";
+                errorMessage.style.display = "block";
+            }
+        }
+
+        function drawGraph(data) {
+            const stockPrices = data.stock_prices;
+            const callPrices = data.call_prices;
+            const putPrices = data.put_prices;
+
+            const ctx1 = document.getElementById('callLongChart').getContext('2d');
+            const ctx2 = document.getElementById('callShortChart').getContext('2d');
+            const ctx3 = document.getElementById('putLongChart').getContext('2d');
+            const ctx4 = document.getElementById('putShortChart').getContext('2d');
+
+            const chartOptions = {
+                type: 'line',
+                options: {
+                    animation: { duration: 2000 },  // Real-time drawing effect
+                    responsive: true,
+                    scales: {
+                        x: { title: { display: true, text: 'Stock Price' } },
+                        y: { title: { display: true, text: 'Option Price' } }
+                    }
+                }
+            };
+
+            new Chart(ctx1, { ...chartOptions, data: { labels: stockPrices, datasets: [{ label: "Call Long", data: callPrices, borderColor: "blue" }] } });
+            new Chart(ctx2, { ...chartOptions, data: { labels: stockPrices, datasets: [{ label: "Call Short", data: callPrices.map(p => -p), borderColor: "red" }] } });
+            new Chart(ctx3, { ...chartOptions, data: { labels: stockPrices, datasets: [{ label: "Put Long", data: putPrices, borderColor: "green" }] } });
+            new Chart(ctx4, { ...chartOptions, data: { labels: stockPrices, datasets: [{ label: "Put Short", data: putPrices.map(p => -p), borderColor: "orange" }] } });
+        }
+    </script>
+
+</body>
+</html>

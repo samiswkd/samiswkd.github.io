@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Option Premium vs Underlying Price (Scatter)</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2rem; }
+    #examples { margin-bottom: 1rem; font-style: italic; color: #555; }
+    #messageBox { margin: 0.5rem 0; color: #a00; }
+    #metadata { margin: 1rem 0; font-weight: bold; }
+    .charts-wrapper { display: flex; flex-wrap: wrap; justify-content: space-around; }
+    .chart-container {
+      flex: 1 1 calc(45% - 1rem);
+      margin: 0.5rem;
+      min-width: 300px;
+      height: 300px;
+      position: relative;
+    }
+    canvas { width:100% !important; height:100% !important; }
+    #errorOverlay {
+      position: fixed; top:0; left:0; width:100%; height:100%;
+      background: rgba(255,0,0,0.8); color:white; font-size:1.2rem;
+      display:none; align-items:center; justify-content:center; z-index:1000;
+    }
+  </style>
+</head>
+<body>
+  <h2>Option Premium vs Underlying Price (Scatter)</h2>
+  <p id="examples">Try these examples: <strong>AAPL251219C00150000</strong>, <strong>MSFT211008C00290500</strong>, <strong>SPY241019P00450000</strong>, <strong>GOOG240616P00150000</strong></p>
+  <label for="tickerInput">Option Ticker (OSI):</label>
+  <input id="tickerInput" placeholder="e.g. AAPL251219C00150000" />
+  <button id="loadBtn">Load Data</button>
+
+  <div id="messageBox"></div>
+  <div id="metadata"></div>
+  <div id="errorOverlay"></div>
+
+  <div class="charts-wrapper">
+    <div class="chart-container">
+      <h3>Call – Long (Ask)</h3>
+      <canvas id="scatterCallLong"></canvas>
+    </div>
+    <div class="chart-container">
+      <h3>Put – Long (Ask)</h3>
+      <canvas id="scatterPutLong"></canvas>
+    </div>
+  </div>
+
+  <script>
+    const API_KEY = '';
+    const osiPattern = /^([A-Z]{1,6})(\d{6})([CP])(\d{8})$/;
+    const btn = document.getElementById('loadBtn'),
+          msg = document.getElementById('messageBox'),
+          meta = document.getElementById('metadata'),
+          overlay = document.getElementById('errorOverlay');
+    let charts = [];
+
+    function showError(txt) { overlay.textContent = `Error: ${txt}`; overlay.style.display = 'flex'; }
+    function clearError() { overlay.style.display = 'none'; msg.textContent = ''; meta.textContent = ''; }
+
+    async function fetchWithRetry(url, retries=3, backoff=500) {
+      const resp = await fetch(url);
+      if (resp.status === 429 && retries>0) { await new Promise(r=>setTimeout(r, backoff)); return fetchWithRetry(url, retries-1, backoff*2); }
+      if (!resp.ok) throw new Error(`Network error (${resp.status})`);
+      return resp.json();
+    }
+
+    async function fetchContractMetadata(tickerOSI) {
+      const sym = `O:${tickerOSI}`;
+      const json = await fetchWithRetry(
+        `https://api.polygon.io/v3/reference/options/contracts/${encodeURIComponent(sym)}?apiKey=${API_KEY}`
+      );
+      if (!json.results) throw new Error('Contract not found');
+      return json.results;
+    }
+
+    async function fetchAggs(sym, start, end) {
+      const url = `https://api.polygon.io/v2/aggs/ticker/${sym}/range/1/day/${start}/${end}` +
+                  `?adjusted=true&sort=asc&limit=5000&apiKey=${API_KEY}`;
+      const json = await fetchWithRetry(url);
+      return (json.results||[]).map(r=>({ date: new Date(r.t).toISOString().slice(0,10), close: r.c }));
+    }
+
+    async function fetchNBBO(sym, start, end) {
+      const ticker = sym.startsWith('O:') ? sym.slice(2) : sym;
+      const url = `https://api.polygon.io/v1/historic/nbbo/${encodeURIComponent(ticker)}` +
+                  `?start=${start}T00:00:00Z&end=${end}T23:59:59Z&limit=5000&apiKey=${API_KEY}`;
+      const json = await fetchWithRetry(url);
+      return Array.isArray(json.results)
+        ? json.results.map(r=>({ date: new Date(r.t).toISOString().slice(0,10), bid: r.bp, ask: r.ap }))
+        : [];
+    }
+
+    function linearRegression(data) {
+      const n = data.length;
+      let sumX=0, sumY=0, sumXY=0, sumXX=0;
+      data.forEach(pt=>{ sumX+=pt.x; sumY+=pt.y; sumXY+=pt.x*pt.y; sumXX+=pt.x*pt.x; });
+      const slope = (n*sumXY - sumX*sumY)/(n*sumXX - sumX*sumX);
+      const intercept = (sumY - slope*sumX)/n;
+      return { slope, intercept };
+    }
+
+    btn.addEventListener('click', async () => {
+      clearError(); charts.forEach(c=>c.destroy()); charts=[];
+      const v = document.getElementById('tickerInput').value.toUpperCase().trim();
+      const m = v.match(osiPattern); if (!m) return showError('Invalid OSI ticker');
+
+      try {
+        const md = await fetchContractMetadata(v);
+        meta.innerHTML = `Contract: ${md.ticker} (${md.contract_type.toUpperCase()})<br>
+          Expiration: ${md.expiration_date}<br>
+          Strike: $${md.strike_price.toFixed(2)}<br>
+          Style: ${md.exercise_style}<br>
+          Exchange: ${md.primary_exchange}`;
+
+        const [root,exp,,strike] = m.slice(1), under = root;
+        const callRaw = `${root}${exp}C${strike}`, putRaw = `${root}${exp}P${strike}`;
+        const optCall = `O:${callRaw}`, optPut = `O:${putRaw}`;
+
+        const toDate = new Date().toISOString().slice(0,10);
+        const fromDateObj = new Date(); fromDateObj.setDate(fromDateObj.getDate()-180);
+        const fromDate = fromDateObj.toISOString().slice(0,10);
+
+        const uData = await fetchAggs(under, fromDate, toDate);
+        if (!uData.length) throw new Error('No underlying data');
+
+        let callQuotes=[], putQuotes=[];
+        try { callQuotes = await fetchNBBO(optCall, fromDate, toDate); }
+        catch(err){ if(err.message.includes('404')){ const tmp=await fetchAggs(optCall, fromDate, toDate); callQuotes=tmp.map(r=>({date:r.date,bid:r.close,ask:r.close})); } else throw err; }
+        try { putQuotes = await fetchNBBO(optPut, fromDate, toDate); }
+        catch(err){ if(err.message.includes('404')){ const tmp=await fetchAggs(optPut, fromDate, toDate); putQuotes=tmp.map(r=>({date:r.date,bid:r.close,ask:r.close})); } else throw err; }
+
+        const dates = uData.map(x=>x.date), stock = uData.map(x=>x.close);
+        const callAsk = dates.map(d=>{ const q=callQuotes.find(x=>x.date===d); return q? q.ask:null; });
+        const putAsk  = dates.map(d=>{ const q=putQuotes.find(x=>x.date===d); return q? q.ask:null; });
+
+        function scatterData(xArr,yArr){ return xArr.reduce((acc,x,i)=>{ const y=yArr[i]; if(x!=null && y!=null) acc.push({x,y}); return acc; },[]); }
+
+        const callData = scatterData(stock, callAsk);
+        const putData  = scatterData(stock, putAsk);
+
+        const callTrend = (() => { const {slope,intercept}=linearRegression(callData); const xs=callData.map(p=>p.x); const minX=Math.min(...xs), maxX=Math.max(...xs); return [{x:minX,y:slope*minX+intercept},{x:maxX,y:slope*maxX+intercept}]; })();
+        const putTrend  = (() => { const {slope,intercept}=linearRegression(putData); const xs=putData.map(p=>p.x); const minX=Math.min(...xs), maxX=Math.max(...xs); return [{x:minX,y:slope*minX+intercept},{x:maxX,y:slope*maxX+intercept}]; })();
+
+        const configs = [
+          { canvasId:'scatterCallLong', title:'Call – Long (Ask)', data:callData, trend:callTrend },
+          { canvasId:'scatterPutLong', title:'Put – Long (Ask)', data:putData, trend:putTrend }
+        ];
+
+        configs.forEach(cfg=>{
+          const ctx = document.getElementById(cfg.canvasId).getContext('2d');
+          charts.push(new Chart(ctx,{ type:'scatter', data:{ datasets:[ {label:cfg.title, data:cfg.data, pointRadius:3}, {label:cfg.title+' Trend', data:cfg.trend, type:'line', borderDash:[5,5], pointRadius:0} ] }, options:{ responsive:true, maintainAspectRatio:false, scales:{ x:{ title:{ display:true, text:'Stock Price' } }, y:{ title:{ display:true, text:'Option Premium' } } } } }));
+        });
+      } catch(err){ console.error(err); showError(err.message); }
+    });
+  </script>
+</body>
+</html>
